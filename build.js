@@ -65,6 +65,12 @@ var Main = function () {
       button.addEventListener('mouseup', function () {
         return _this.training = -1;
       });
+      button.addEventListener('touchstart', function () {
+        return _this.training = i;
+      });
+      button.addEventListener('touchend', function () {
+        return _this.training = -1;
+      });
 
       var infoText = document.createElement('span');
       infoText.innerText = "0 examples";
