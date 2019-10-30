@@ -55,21 +55,23 @@ var Main = function () {
 
       _this.classNamesInputs.push(inputField);
 
-      var button = document.createElement('button');
-      button.innerText = "Train";
+      var button = document.createElement('input');
+      button.setAttribute("type", "button");
+      button.setAttribute("value", "Train");
       div.appendChild(button);
 
-      button.addEventListener('mousedown', function () {
-        return _this.training = i;
+      button.addEventListener('mousedown', function (e) {
+        _this.training = i;
       });
-      button.addEventListener('mouseup', function () {
-        return _this.training = -1;
+      button.addEventListener('mouseup', function (e) {
+        _this.training = -1;
       });
-      button.addEventListener('touchstart', function () {
-        return _this.training = i;
+      button.addEventListener('touchstart', function (e) {
+        _this.training = i;
       });
-      button.addEventListener('touchend', function () {
-        return _this.training = -1;
+      button.addEventListener('touchend', function (e) {
+        e.preventDefault();
+        _this.training = -1;
       });
 
       var infoText = document.createElement('span');
