@@ -38,28 +38,30 @@ var Main = function () {
 
     this.createMachineAndStart();
 
-    this.video = document.createElement('video');
-    this.video.setAttribute('autoplay', '');
-    this.video.setAttribute('playsinline', '');
+    this.downloadLink = document.createElement("a");
 
-    document.body.appendChild(this.video);
+    this.video = document.getElementById("videoElem");
+
+    var newModelButton = document.getElementById("newModel");
+    newModelButton.addEventListener('mouseup', function (e) {
+      _this.newModel();
+    });
+
+    var saveModelButton = document.getElementById("saveModel");
+    saveModelButton.addEventListener('mouseup', function (e) {
+      _this.saveModel();
+    });
+
+    var loadModelButton = document.getElementById("loadModel");
+    loadModelButton.addEventListener('change', function (e) {
+      _this.stop();_this.loadModel(e);
+    });
 
     var _loop = function _loop(i) {
-      var div = document.createElement('div');
-      document.body.appendChild(div);
-      div.style.marginBottom = '10px';
-
-      var inputField = document.createElement('input');
-      inputField.setAttribute("type", "text");
-      div.appendChild(inputField);
-
+      var inputField = document.getElementById("className" + (i + 1));
       _this.classNamesInputs.push(inputField);
 
-      var button = document.createElement('input');
-      button.setAttribute("type", "button");
-      button.setAttribute("value", "Train");
-      div.appendChild(button);
-
+      var button = document.getElementById("classTrain" + (i + 1));
       button.addEventListener('mousedown', function (e) {
         _this.training = i;
       });
@@ -74,9 +76,7 @@ var Main = function () {
         _this.training = -1;
       });
 
-      var infoText = document.createElement('span');
-      infoText.innerText = "0 examples";
-      div.appendChild(infoText);
+      var infoText = document.getElementById("classExamples" + (i + 1));
       _this.infoTexts.push(infoText);
     };
 
@@ -94,8 +94,6 @@ var Main = function () {
 
     navigator.mediaDevices.getUserMedia({ video: true, audio: false }).then(function (stream) {
       _this.video.srcObject = stream;
-      _this.video.width = IMAGE_SIZE;
-      _this.video.height = IMAGE_SIZE;
 
       _this.video.addEventListener('playing', function () {
         return _this.videoPlaying = true;
@@ -107,25 +105,123 @@ var Main = function () {
   }
 
   _createClass(Main, [{
-    key: 'createMachineAndStart',
-    value: function createMachineAndStart() {
-      return regeneratorRuntime.async(function createMachineAndStart$(_context) {
+    key: 'newModel',
+    value: function newModel() {
+      this.knn.clearAllClasses();
+      this.infoTexts.forEach(function (elem) {
+        elem.innerText = "0 examples";
+      });
+      this.classNamesInputs.forEach(function (elem) {
+        elem.value = "";
+      });
+    }
+  }, {
+    key: 'saveModel',
+    value: function saveModel() {
+      var dataForSave, dataset, idx, name, values, trimmedValues, i, v, dataStr, blob, url;
+      return regeneratorRuntime.async(function saveModel$(_context) {
         while (1) {
           switch (_context.prev = _context.next) {
             case 0:
-              this.knn = knnClassifier.create();
+              dataForSave = {};
+              dataset = this.knn.getClassifierDataset();
+              _context.t0 = regeneratorRuntime.keys(dataset);
+
+            case 3:
+              if ((_context.t1 = _context.t0()).done) {
+                _context.next = 14;
+                break;
+              }
+
+              idx = _context.t1.value;
+              name = this.classNamesInputs[idx].value;
+              _context.next = 8;
+              return regeneratorRuntime.awrap(dataset[idx].data());
+
+            case 8:
+              values = _context.sent;
+
+              ///////////////////////////////////////
+              /*let trimmedValues = values.map(function(num){
+                let resNum = 1 + num;
+                return resNum;
+              });*/
+              trimmedValues = [];
+
+              for (i = 0; i < values.length; i++) {
+                v = values[i].toFixed(8);
+
+                trimmedValues.push(v);
+              }
+              //////////////////////////////////////////
+              dataForSave[name] = {
+                values: trimmedValues.toString(),
+                shape: dataset[idx].shape,
+                dtype: dataset[idx].dtype
+              };
               _context.next = 3;
+              break;
+
+            case 14:
+              dataStr = JSON.stringify(dataForSave);
+              blob = new Blob([dataStr], { type: "application/json" });
+              url = window.URL.createObjectURL(blob);
+
+
+              this.downloadLink.href = url;
+              this.downloadLink.download = "model.json";
+              this.downloadLink.click();
+
+            case 20:
+            case 'end':
+              return _context.stop();
+          }
+        }
+      }, null, this);
+    }
+  }, {
+    key: 'loadModel',
+    value: function loadModel(evt) {
+      var modelFile = evt.target.files[0];
+      var reader = new FileReader();
+      reader.onload = function () {
+
+        var dataStr = reader.result;
+        var data = JSON.parse(dataStr);
+        var dataset = {};
+        var idx = 0;
+        for (var className in data) {
+          this.classNamesInputs[idx].value = className;
+          var td = data[className];
+          var arr = td.values.split(",");
+          dataset[idx] = tf.tensor(arr, td.shape, td.dtype);
+          idx++;
+        }
+        this.knn.setClassifierDataset(dataset);
+        this.start();
+      }.bind(this);
+      reader.readAsText(modelFile);
+    }
+  }, {
+    key: 'createMachineAndStart',
+    value: function createMachineAndStart() {
+      return regeneratorRuntime.async(function createMachineAndStart$(_context2) {
+        while (1) {
+          switch (_context2.prev = _context2.next) {
+            case 0:
+              this.knn = knnClassifier.create();
+              _context2.next = 3;
               return regeneratorRuntime.awrap(mobilenetModule.load());
 
             case 3:
-              this.mobilenet = _context.sent;
+              this.mobilenet = _context2.sent;
 
 
               this.start();
 
             case 5:
             case 'end':
-              return _context.stop();
+              return _context2.stop();
           }
         }
       }, null, this);
@@ -151,12 +247,12 @@ var Main = function () {
       var _this2 = this;
 
       var image, logits, infer, numClasses, res, i, name, exampleCount;
-      return regeneratorRuntime.async(function animate$(_context2) {
+      return regeneratorRuntime.async(function animate$(_context3) {
         while (1) {
-          switch (_context2.prev = _context2.next) {
+          switch (_context3.prev = _context3.next) {
             case 0:
               if (!this.videoPlaying) {
-                _context2.next = 14;
+                _context3.next = 14;
                 break;
               }
 
@@ -175,16 +271,16 @@ var Main = function () {
               numClasses = this.knn.getNumClasses();
 
               if (!(numClasses > 0)) {
-                _context2.next = 12;
+                _context3.next = 12;
                 break;
               }
 
               logits = infer();
-              _context2.next = 10;
+              _context3.next = 10;
               return regeneratorRuntime.awrap(this.knn.predictClass(logits, TOPK));
 
             case 10:
-              res = _context2.sent;
+              res = _context3.sent;
 
 
               for (i = 0; i < NUM_CLASSES; i++) {
@@ -215,7 +311,7 @@ var Main = function () {
 
             case 15:
             case 'end':
-              return _context2.stop();
+              return _context3.stop();
           }
         }
       }, null, this);

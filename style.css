@@ -1,0 +1,13 @@
+#divVideo {
+    width: 400px;
+    height: 400px;
+}
+
+#divClass {
+    padding: 10px 0px 10px 0px;
+    display: inline-block;
+}
+
+#controls {
+    padding: 10px 0px 10px 0px;
+}
