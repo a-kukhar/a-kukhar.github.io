@@ -9,6 +9,7 @@ class PreloaderScene extends Phaser.Scene {
      * 
      */
     create() {
+        console.log("Game preloader");
         this.load.once("complete", this.loadComplete, this);
         this.load.setPath("./images/theme_01/")
         

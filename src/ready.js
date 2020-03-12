@@ -9,6 +9,7 @@ class ReadyScene extends Phaser.Scene {
      * 
      */
     create() {
+        console.log("Game ready!");
         this.cameras.main.setBackgroundColor(0xffffff);
         let mainTitle = this.add.text(this.game.scale.width / 2, this.game.scale.height / 2 - 50, "GAME IS READY", {
             fontFamily: "Arial",
@@ -32,10 +33,9 @@ class ReadyScene extends Phaser.Scene {
             yoyo: true
         });
         
-        debugger;
-        /*sendToGameshell({
+        sendToGameshell({
             eventType: "gameReady",
             message: GAMESHELL_GAME_INFO
-        });*/
+        });
     };    
 }
