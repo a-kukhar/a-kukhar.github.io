@@ -29,9 +29,9 @@
 
             let game = new Phaser.Game(config);
 
-            game.scene.add("Preloader", new PreloaderScene());
-            game.scene.add("Ready", new ReadyScene());
-            game.scene.add("Main", new MainScene());
+            game.scene.add("Preloader", PreloaderScene);
+            game.scene.add("Ready", ReadyScene);
+            game.scene.add("Main", MainScene);
             game.scene.start("Ready");
 
             /*game.scene.add("Test", TestScene);
