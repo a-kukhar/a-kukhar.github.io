@@ -1,0 +1,3 @@
+function setGameshellInfoHook(data) {
+    debugger;
+};
