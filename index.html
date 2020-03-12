@@ -11,12 +11,13 @@
     <script src="./src/ready.js"></script>
     <script src="./src/board.js"></script>
     <script src="./src/main.js"></script>
+    <script src="./src/test.js"></script>
 
 </head>
 <body>
     <script type="text/javascript">
         window.onload = function() {
-            debugger;
+            console.log("Game initialization!");
             var config = {
                 type: Phaser.WEBGL,
                 scale: {
@@ -28,10 +29,13 @@
 
             let game = new Phaser.Game(config);
 
-            game.scene.add("Preloader", new PreloaderScene());
+            /*game.scene.add("Preloader", new PreloaderScene());
             game.scene.add("Ready", new ReadyScene());
             game.scene.add("Main", new MainScene());
-            game.scene.start("Preloader");
+            game.scene.start("Preloader");*/
+
+            game.scene.add("Test", TestScene);
+            game.scene.start("Test");
             
             window.phaserGame = game;
 
