@@ -15,3 +15,7 @@ function setGameshellInfoHook(data) {
 function startGameHook(data) {
     PHASER_GAME.scene.start("Main");
 }
+
+function setCurrentPlayerHook(data) {
+    debugger;
+};
