@@ -3,7 +3,7 @@ class ReadyScene extends Phaser.Scene {
      * 
      */
     constructor() {
-        super("Ready");        
+        super("Ready");     
     };
     /**
      * 
