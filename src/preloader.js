@@ -24,11 +24,6 @@ class PreloaderScene extends Phaser.Scene {
      */
     loadComplete() {
         console.log("loading complete");
-        /*sendToGameshell({
-            eventType: "gameReady",
-            message: GAMESHELL_GAME_INFO
-        });*/
-        //this.scene.start("Ready");
         PHASER_GAME.scene.start("Ready");
     }
 }
