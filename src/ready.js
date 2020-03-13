@@ -33,9 +33,9 @@ class ReadyScene extends Phaser.Scene {
             yoyo: true
         });
         
-        /*sendToGameshell({
+        sendToGameshell({
             eventType: "gameReady",
             message: GAMESHELL_GAME_INFO
-        });*/
+        });
     };    
 }
