@@ -12,7 +12,10 @@ TestScene2.prototype.create = function() {
     this.load.image("ball-2", "ball-2.png");
 
     this.load.start();*/
-    this.scene.start("ddfsff");
+    sendToGameshell({
+        eventType: "gameReady",
+        message: GAMESHELL_GAME_INFO
+    });
 };
 
 TestScene2.prototype.loadComplete = function() {

@@ -26,9 +26,5 @@ TestScene.prototype.create = function() {
         duration: 300,
         repeat: -1,
         yoyo: true
-    });
-    sendToGameshell({
-        eventType: "gameReady",
-        message: GAMESHELL_GAME_INFO
-    });
+    });    
 }
