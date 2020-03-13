@@ -79,3 +79,4 @@ var GAMESHELL_CURRENT_PLAYER = null;
  * 3 - e-helper;
  */
 var GAMESHELL_CURRENT_PLAYER_TYPE = 1;
+var GAMESHELL_TURN_PLAYER_ID = null;

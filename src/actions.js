@@ -11,7 +11,6 @@ function setGameshellInfoHook(data) {
     GAMESHELL_CURRENT_PLAYER      = data.currentPlayer;
     GAMESHELL_CURRENT_PLAYER_TYPE = data.userType;
 };
-
 /**
  * Start game for admin.
  */
@@ -24,17 +23,18 @@ function startGameHook() {
         }
     });
 };
-  
 /**
  * Handle start game for players
  * @param {number} playerId - id of player who turn. 
  */
 function gsStartGame(playerId) {
-    console.log("################ START GAME ####################");
-    console.log(playerId);
-    console.log("################################################");
+    GAMESHELL_TURN_PLAYER_ID = playerId;
+    PHASER_GAME.scene.start("Main");
 };
-
+/**
+ * Handle messages sent by "sendToAll" and "sendToPlayers" methods
+ * @param {object} message 
+ */
 function handleGameMessageHook(message) {
     let messageType = message.type;
     let messageData = message.data;
@@ -45,4 +45,3 @@ function handleGameMessageHook(message) {
             break;
     };
 };
-

@@ -131,6 +131,7 @@ class Board {
      * 
      */
     placeTurn(cell) {
+        if (GAMESHELL_CURRENT_PLAYER.personId !== GAMESHELL_TURN_PLAYER_ID) return;
         let column = cell.getData("column");
         let isPlaced = false;
         for (let rowIndex = GAME_CONFIG.ROWS - 1; rowIndex >= 0; rowIndex--) {

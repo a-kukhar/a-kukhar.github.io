@@ -25,6 +25,7 @@ class MainScene extends Phaser.Scene {
      */
     switchTurn() {
         this.turnOwner = this.turnOwner === TURN_TYPES.PLAYER ? TURN_TYPES.OPPONENT : TURN_TYPES.PLAYER;
+        // send message to gameshell to change current player;
     };
     /**
      * 
