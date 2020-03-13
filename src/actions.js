@@ -12,10 +12,20 @@ function setGameshellInfoHook(data) {
     GAMESHELL_CURRENT_PLAYER_TYPE = data.userType;
 };
 
-function startGameHook(data) {
-    PHASER_GAME.scene.start("Main");
-}
-
-function setCurrentPlayerHook(data) {
-    debugger;
+function gsStartGame(data) {
+    console.log("################ START GAME ####################");
+    console.log(data);
+    console.log("################################################");
 };
+
+function handleGameMessageHook(message) {
+    let messageType = message.type;
+    let messageData = message.data;
+
+    switch (messageType) {
+        case "startGame": 
+            gsStartGame(messageData);
+            break;
+    };
+};
+
