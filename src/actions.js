@@ -24,6 +24,14 @@ function startGameHook() {
         }
     });
 };
+
+function setPlayersHook(players) {
+    debugger;
+};
+
+
+
+
 /**
  * Handle start game for players
  * @param {number} playerId - id of player who turn. 
