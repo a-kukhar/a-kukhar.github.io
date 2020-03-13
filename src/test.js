@@ -1,8 +1,9 @@
 TestScene = function() {
-
+    console.log("Ready scene construction");
 };
 
 TestScene.prototype.create = function() {
+    debugger;
     console.log("Ready scene function");
     this.cameras.main.setBackgroundColor(0xffffff);
     let mainTitle = this.add.text(this.game.scale.width / 2, this.game.scale.height / 2 - 50, "GAME IS READY", {
