@@ -12,7 +12,7 @@ TestScene2.prototype.create = function() {
     this.load.image("ball-2", "ball-2.png");
 
     this.load.start();*/
-    this.scene.start("Ready");
+    this.scene.start("ddfsff");
 };
 
 TestScene2.prototype.loadComplete = function() {
