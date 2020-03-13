@@ -32,12 +32,12 @@
             game.scene.add("Preloader", PreloaderScene);
             game.scene.add("Ready", ReadyScene);
             game.scene.add("Main", MainScene);
-            game.scene.start("Ready");
+            game.scene.start("Preloader");
 
             /*game.scene.add("Test", TestScene);
             game.scene.start("Test");*/
             
-            window.phaserGame = game;
+            PHASER_GAME = game;
 
             /*let actions = new Actions();
             window.phaserActions = actions;*/
