@@ -29,6 +29,8 @@ function startGameHook() {
  */
 function gsStartGame(data) {
     GAMESHELL_TURN_PLAYER_ID = data.startingPlayerId;
+    console.log("Current player id:", GAMESHELL_CURRENT_PLAYER.personId);
+    console.log("Current turn player id:", GAMESHELL_TURN_PLAYER_ID);
     PHASER_GAME.scene.start("Main");
 };
 /**
