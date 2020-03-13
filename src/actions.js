@@ -10,7 +10,7 @@ function setGameshellInfoHook(data) {
     GAMESHELL_PLAYERS_INFO        = data;
     GAMESHELL_CURRENT_PLAYER      = data.currentPlayer;
     GAMESHELL_CURRENT_PLAYER_TYPE = data.userType;
-    //PHASER_GAME.scene.start("Ready");
+    PHASER_GAME.scene.start("Ready");
 };
 
 function startGameHook() {
