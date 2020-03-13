@@ -12,9 +12,26 @@ function setGameshellInfoHook(data) {
     GAMESHELL_CURRENT_PLAYER_TYPE = data.userType;
 };
 
-function gsStartGame(data) {
+/**
+ * Start game for admin.
+ */
+function startGameHook() {
+    sendToGameshell({
+        eventType: "sendToAll",
+        message: {
+            type: "startGame",
+            data: { startingPlayerId: GAMESHELL_CURRENT_PLAYER.personId }
+        }
+    });
+};
+  
+/**
+ * Handle start game for players
+ * @param {number} playerId - id of player who turn. 
+ */
+function gsStartGame(playerId) {
     console.log("################ START GAME ####################");
-    console.log(data);
+    console.log(playerId);
     console.log("################################################");
 };
 
