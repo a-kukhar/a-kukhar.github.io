@@ -3,6 +3,7 @@ TestScene2 = function() {
 };
 
 TestScene2.prototype.create = function() {
+    console.log("Preloader scene function");
     this.load.on("complete", this.loadComplete, this);
     this.load.setPath("./images/theme_01/")
     

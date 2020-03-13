@@ -3,6 +3,7 @@ TestScene = function() {
 };
 
 TestScene.prototype.create = function() {
+    console.log("Ready scene function");
     this.cameras.main.setBackgroundColor(0xffffff);
     let mainTitle = this.add.text(this.game.scale.width / 2, this.game.scale.height / 2 - 50, "GAME IS READY", {
         fontFamily: "Arial",
