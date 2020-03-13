@@ -27,8 +27,8 @@ function startGameHook() {
  * Handle start game for players
  * @param {number} playerId - id of player who turn. 
  */
-function gsStartGame(playerId) {
-    GAMESHELL_TURN_PLAYER_ID = playerId;
+function gsStartGame(data) {
+    GAMESHELL_TURN_PLAYER_ID = data.startingPlayerId;
     PHASER_GAME.scene.start("Main");
 };
 /**
