@@ -24,6 +24,7 @@ class PreloaderScene extends Phaser.Scene {
      */
     loadComplete() {
         console.log("loading complete");
+        debugger;
         this.scene.start("Ready");
     }
 }
