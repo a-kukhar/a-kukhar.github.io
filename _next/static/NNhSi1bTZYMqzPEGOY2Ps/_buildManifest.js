@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/":[a],"/game/classic":[a],"/game/classic/turn-3":[a],"/game/freecell":[a],"/game/pyramid":[a],"/game/spider":[a],"/game/spider/2-suits":[a],"/game/spider/4-suits":[a],"/index":[a]}}("static\u002Fchunks\u002Ff4bc5d571190fc5a39fcfbd13ab3636ec2ad78b9.4c9b9d470b3aab2adff9.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

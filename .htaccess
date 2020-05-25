@@ -1,0 +1,7 @@
+DirectoryIndex index.html
+RewriteEngine On
+RewriteRule game/(classic|spider|freecell|pyramid)/?$ game/$1.html [L]
+RewriteRule (about|blog|cookies|privacy|terms)/?$ $1.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [QSA,L]
