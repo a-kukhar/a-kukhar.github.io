@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\index.js"],{
 
 /***/ "./components/GameCanvas.js":
 /*!**********************************!*\
@@ -29,7 +29,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/solita12/devel/solitaire-webapp/components/GameCanvas.js";
+var _jsxFileName = "D:\\development\\upwork\\arjun-ravrani\\downloads\\devel\\solitaire-webapp\\components\\GameCanvas.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
 function _createSuper(Derived) { return function () { var Super = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__["default"])(Derived), result; if (_isNativeReflectConstruct()) { var NewTarget = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__["default"])(this).constructor; result = _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__["default"])(this, result); }; }
@@ -61,8 +61,8 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
         splash: '/splash/klondike.jpg',
         srcPath: '/klondike-shared.js',
         mode: {
-          1: '/game/classic',
-          3: '/game/classic/turn-3'
+          1: 'one',
+          3: 'three'
         }
       },
       spider: {
@@ -71,9 +71,9 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
         splash: '/splash/spider.jpg',
         srcPath: '/spider-shared.js',
         mode: {
-          1: '/game/spider',
-          2: '/game/spider/2-suits',
-          4: '/game/spider/4-suits'
+          1: 'one',
+          2: 'two',
+          4: 'four'
         }
       },
       freecell: {
@@ -96,6 +96,8 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
       rendered: false,
       disabled: false
     });
+
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "mode", null);
 
     Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "openTutorial", function (url) {
       return function () {
@@ -127,7 +129,7 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
           runGame({
             onHowTo: _this2.openTutorial(howToUrl),
             baseURL: baseURL,
-            type: _this2.props.mode,
+            type: _this2.mode,
             openGame: function openGame(mode) {
               return _this2.openGame(mode);
             }
@@ -138,14 +140,23 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
   }, {
     key: "openGame",
     value: function openGame(mode) {
-      var url = this.selected.mode[mode];
-      window.open(url + '.html', '_self');
+      /*let url = this.selected.mode[mode]
+      //window.open(url + '.html', '_self')
+      window.open(url + '.html', '_self')*/
+      this.mode = this.selected.mode[mode];
+      this.setState({
+        disabled: false
+      }, function () {});
+      this.setState({
+        rendered: false
+      }, function () {});
     }
   }, {
     key: "componentWillMount",
     value: function componentWillMount() {
       var type = this.props.type;
       this.selected = this._games[type];
+      this.mode = this.props.mode;
     }
   }, {
     key: "handleClick",
@@ -171,7 +182,7 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 86,
+          lineNumber: 92,
           columnNumber: 13
         }
       }, __jsx("img", {
@@ -180,7 +191,7 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 87,
+          lineNumber: 93,
           columnNumber: 17
         }
       })), __jsx("div", {
@@ -192,7 +203,7 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 89,
+          lineNumber: 95,
           columnNumber: 13
         }
       }, this.state.disabled ? 'Starting...' : 'Play Now'));
@@ -203,7 +214,7 @@ var GameCanvas = /*#__PURE__*/function (_Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 96,
+          lineNumber: 102,
           columnNumber: 17
         }
       }, this.state.rendered ? '' : splashDOM));
@@ -2506,10 +2517,10 @@ var require;/*! load-js v3.0.3 - Sat Sep 15 2018 18:17:56 GMT-0400 (EDT). (c) 20
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fsolita12%2Fdevel%2Fsolitaire-webapp%2Fpages%2Findex.js!./":
-/*!*****************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fsolita12%2Fdevel%2Fsolitaire-webapp%2Fpages%2Findex.js ***!
-  \*****************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5Cdevelopment%5Cupwork%5Carjun-ravrani%5Cdownloads%5Cdevel%5Csolitaire-webapp%5Cpages%5Cindex.js!./":
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5Cdevelopment%5Cupwork%5Carjun-ravrani%5Cdownloads%5Cdevel%5Csolitaire-webapp%5Cpages%5Cindex.js ***!
+  \******************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2531,12 +2542,12 @@ var require;/*! load-js v3.0.3 - Sat Sep 15 2018 18:17:56 GMT-0400 (EDT). (c) 20
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_ef0ff7c60362f24a921f ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_5f137288facb1107b491 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491 */ "dll-reference dll_5f137288facb1107b491"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -2553,7 +2564,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_GameCanvas__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/GameCanvas */ "./components/GameCanvas.js");
 var _this = undefined,
-    _jsxFileName = "/home/solita12/devel/solitaire-webapp/pages/index.js";
+    _jsxFileName = "D:\\development\\upwork\\arjun-ravrani\\downloads\\devel\\solitaire-webapp\\pages\\index.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -2585,25 +2596,25 @@ IndexPage.getInitialProps = function () {
 /***/ }),
 
 /***/ 2:
-/*!*********************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fsolita12%2Fdevel%2Fsolitaire-webapp%2Fpages%2Findex.js ***!
-  \*********************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5Cdevelopment%5Cupwork%5Carjun-ravrani%5Cdownloads%5Cdevel%5Csolitaire-webapp%5Cpages%5Cindex.js ***!
+  \**********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fsolita12%2Fdevel%2Fsolitaire-webapp%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fsolita12%2Fdevel%2Fsolitaire-webapp%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5Cdevelopment%5Cupwork%5Carjun-ravrani%5Cdownloads%5Cdevel%5Csolitaire-webapp%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5Cdevelopment%5Cupwork%5Carjun-ravrani%5Cdownloads%5Cdevel%5Csolitaire-webapp%5Cpages%5Cindex.js!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_ef0ff7c60362f24a921f":
+/***/ "dll-reference dll_5f137288facb1107b491":
 /*!*******************************************!*\
-  !*** external "dll_ef0ff7c60362f24a921f" ***!
+  !*** external "dll_5f137288facb1107b491" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_ef0ff7c60362f24a921f;
+module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
