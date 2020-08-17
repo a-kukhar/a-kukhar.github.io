@@ -1,0 +1,73 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "go",
+        "sentence": "We have a long way to go."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "no",
+        "sentence": "There is no school today."
+    }, {
+        "id": 3,
+        "type": ["HOMOGRAPH"],
+        "word": "oval",
+        "sentence": "Footballs have an oval shape."
+    }, {
+        "id": 4,
+        "type": ["HOMOPHONE"],
+        "word": "toe",
+        "sentence": "I hit my big toe on the step."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "goes",
+        "sentence": "That box goes over there."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "toad",
+        "sentence": "Look at that fat toad."
+    }, {
+        "id": 7,
+        "type": ["HOMOPHONE"],
+        "word": "road",
+        "sentence": "Don't walk on the road."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "boat",
+        "sentence": "Dad took us fishing on the boat."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "coat",
+        "sentence": "I need my coat."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "soak",
+        "sentence": "Mom loves to soak in the bath."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "clue",
+        "sentence": "Can you give me a clue?"
+    }, {
+        "id": 12,
+        "type": ["HOMOPHONE"],
+        "word": "due",
+        "sentence": "My school work is due today."
+    }, {
+        "id": 13,
+        "type": ["HOMOPHONE"],
+        "word": "blue",
+        "sentence": "I like my blue jeans."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "both",
+        "sentence": "Both of us have the same name."
+    }]
+}

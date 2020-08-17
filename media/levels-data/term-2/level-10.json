@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "name",
+        "sentence": "My name is Tom."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "home",
+        "sentence": "My home is close to a park."
+    }, {
+        "id": 3,
+        "type": ["HOMOPHONE"],
+        "word": "rain",
+        "sentence": "They say it will rain today."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "day",
+        "sentence": "I had a good day at school."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "goes",
+        "sentence": "That girl goes to my school."
+    }, {
+        "id": 6,
+        "type": ["HOMOPHONE"],
+        "word": "blue",
+        "sentence": "I like my blue jeans."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "down",
+        "sentence": "Take care or you will fall down."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "out",
+        "sentence": "We went out for dinner."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "took",
+        "sentence": "My sister took my sweater."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "wool",
+        "sentence": "Wool comes from sheep."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "quit",
+        "sentence": "It was hard but I did not quit."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "twig",
+        "sentence": "This twig fell from that tree."
+    }, {
+        "id": 13,
+        "type": ["HOMOPHONE"],
+        "word": "days",
+        "sentence": "Some days I feel lazy."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "food",
+        "sentence": "Eating good food keeps you well."
+    }, {
+        "id": 15,
+        "type": ["HOMOGRAPH"],
+        "word": "room",
+        "sentence": "I share a room with my brother."
+    }]
+}

@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "sketches",
+        "sentence": "Do you like my sketches of the beach?"
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "lunches",
+        "sentence": "Their lunches were ready."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "bunches",
+        "sentence": "She was given bunches of flowers."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "churches",
+        "sentence": "Those churches look the same."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "arches",
+        "sentence": "We made arches with our hands."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "benches",
+        "sentence": "The team sat on long benches."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "trenches",
+        "sentence": "Trenches were dug in the ground."
+    }, {
+        "id": 8,
+        "type": ["HOMOGRAPH"],
+        "word": "matches",
+        "sentence": "Never play with matches."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "batches",
+        "sentence": "Mom made three batches of cup cakes."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "latches",
+        "sentence": "The door latches do not lock."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "patches",
+        "sentence": "There are brown patches on the grass."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "scratches",
+        "sentence": "I fell so my arm is full of scratches."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "dishes",
+        "sentence": "We helped wash up the dishes."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "wishes",
+        "sentence": "I have three wishes."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "stitches",
+        "sentence": "I had to have two stitches on my chin."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "crashes",
+        "sentence": "There were two crashes in my street."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "catches",
+        "sentence": "Dad catches fish in the lake."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "brushes",
+        "sentence": "She always brushes her teeth."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "bushes",
+        "sentence": "Look at those rose bushes."
+    }, {
+        "id": 20,
+        "type": ["HOMOGRAPH"],
+        "word": "lashes",
+        "sentence": "My lashes are long and black."
+    }]
+}

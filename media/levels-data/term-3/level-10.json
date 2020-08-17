@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "here",
+        "sentence": "Put your bag over here."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "hear",
+        "sentence": "I can hear Mom calling me."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "gone",
+        "sentence": "All the corn is gone."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "done",
+        "sentence": "I have done my jobs for today."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "start",
+        "sentence": "The race was about to start."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "car",
+        "sentence": "Mom has a new car."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "her",
+        "sentence": "Her eyes are blue."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "girl",
+        "sentence": "The girl sat on the ground."
+    }, {
+        "id": 9,
+        "type": ["HOMOPHONE"],
+        "word": "born",
+        "sentence": "I was born here."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "turn",
+        "sentence": "We have to turn right here."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "wanted",
+        "sentence": "We all wanted to see the whale."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "missed",
+        "sentence": "I missed the bus for school."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "Wednesday",
+        "sentence": "Come to my house on Wednesday."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "autumn",
+        "sentence": "Autumn starts to get cold."
+    }, {
+        "id": 15,
+        "type": ["HOMOPHONE"],
+        "word": "eight",
+        "sentence": "Four and four makes eight."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "golf",
+        "sentence": "Dad likes to play golf."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "front",
+        "sentence": "I will sit in front of you."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "phone",
+        "sentence": "I can hear the phone ringing."
+    }, {
+        "id": 19,
+        "type": ["HOMOPHONE"],
+        "word": "where",
+        "sentence": "Where did I put my hat?"
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "what",
+        "sentence": "What are you doing on Saturday?"
+    }]
+}

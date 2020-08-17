@@ -1,0 +1,73 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "quit",
+        "sentence": "I wanted to quit the game."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "quiz",
+        "sentence": "We had a quiz at school."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "queen",
+        "sentence": "The queen sat on her throne."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "quack",
+        "sentence": "The little duck went quack quack."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "quail",
+        "sentence": "A quail is a little bird."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "quake",
+        "sentence": "I quake in my boots from fright."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "quick",
+        "sentence": "I have quick showers."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "twig",
+        "sentence": "A twig fell from the tree."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "twenty",
+        "sentence": "Ten and ten add up to twenty."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "twin",
+        "sentence": "I have a twin sister."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "twelve",
+        "sentence": "Six and six add up to twelve."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "quiet",
+        "sentence": "We need to be quiet for the movie."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "twine",
+        "sentence": "We put red twine around the box."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "quaint",
+        "sentence": "My grandma has a quaint old house."
+    }]
+}

@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "on",
+        "sentence": "Put the glasses on the table."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "off",
+        "sentence": "I fell off my bike and hurt my arm."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "of",
+        "sentence": "I love spring most of all."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "doll",
+        "sentence": "This is my oldest doll."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "cold",
+        "sentence": "It gets very cold in winter."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "told",
+        "sentence": "He told you to sit back there."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "hold",
+        "sentence": "Please hold my hand as I cross the road."
+    }, {
+        "id": 8,
+        "type": ["HOMOGRAPH"],
+        "word": "bold",
+        "sentence": "The book title has bold letters."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "gold",
+        "sentence": "They hid the gold in the sand."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "sold",
+        "sentence": "Dad sold the family car."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "fold",
+        "sentence": "Fold your paper to make a plane."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "lolly",
+        "sentence": "The lady gave us a lolly for helping her."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "golf",
+        "sentence": "Dad likes to play golf."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "front",
+        "sentence": "She sits in front of me in class."
+    }, {
+        "id": 15,
+        "type": ["HOMOPHONE"],
+        "word": "son",
+        "sentence": "The baker has a son my age."
+    }, {
+        "id": 16,
+        "type": ["HOMOPHONE"],
+        "word": "won",
+        "sentence": "I won the game."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "old",
+        "sentence": "My dog is very old."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "across",
+        "sentence": "The boy ran across the road."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "upon",
+        "sentence": "Many stories start with once upon a time."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "often",
+        "sentence": "How often do you go swimming?"
+    }]
+}

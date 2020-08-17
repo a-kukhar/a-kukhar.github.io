@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "name",
+        "sentence": "My name is Tom."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "late",
+        "sentence": "We are late for school."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "same",
+        "sentence": "We have the same name."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "gave",
+        "sentence": "Mom gave me a big hug."
+    }, {
+        "id": 5,
+        "type": ["HOMOGRAPH"],
+        "word": "line",
+        "sentence": "Can you see that line in the sand?"
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "like",
+        "sentence": "I like playing games."
+    }, {
+        "id": 7,
+        "type": ["HOMOGRAPH"],
+        "word": "mine",
+        "sentence": "That book is mine."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "size",
+        "sentence": "We are the same size."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "home",
+        "sentence": "We went home after the party."
+    }, {
+        "id": 10,
+        "type": ["HOMOGRAPH"],
+        "word": "note",
+        "sentence": "Mom put the note in my book."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "bone",
+        "sentence": "Our dog liked his bone."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "joke",
+        "sentence": "He told me a funny joke."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "cute",
+        "sentence": "My baby sister is cute."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "tube",
+        "sentence": "The tube of paste is empty."
+    }, {
+        "id": 15,
+        "type": ["HOMOGRAPH"],
+        "word": "rule",
+        "sentence": "One house rule is not to play ball inside."
+    }]
+}

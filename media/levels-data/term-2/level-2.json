@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "rain",
+        "sentence": "It is going to rain today."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "sail",
+        "sentence": "I want to sail the high seas."
+    }, {
+        "id": 3,
+        "type": ["HOMOPHONE"],
+        "word": "mail",
+        "sentence": "I will get the mail."
+    }, {
+        "id": 4,
+        "type": ["HOMOPHONE"],
+        "word": "tail",
+        "sentence": "Her cat has a long tail."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "way",
+        "sentence": "This is the way to the park."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "day",
+        "sentence": "I had a good day at school."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "play",
+        "sentence": "We like to play in the park."
+    }, {
+        "id": 8,
+        "type": ["HOMOGRAPH"],
+        "word": "team",
+        "sentence": "Our team won the game."
+    }, {
+        "id": 9,
+        "type": ["HOMOPHONE"],
+        "word": "week",
+        "sentence": "We are going camping next week."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "me",
+        "sentence": "Dad put me to bed."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "she",
+        "sentence": "She is coming to see me."
+    }, {
+        "id": 12,
+        "type": ["HOMOPHONE"],
+        "word": "lie",
+        "sentence": "I hope you are not telling a lie."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "pie",
+        "sentence": "I love apple pie."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "my",
+        "sentence": "This is my home."
+    }, {
+        "id": 15,
+        "type": ["HOMOPHONE"],
+        "word": "by",
+        "sentence": "I will finish the book by Friday."
+    }]
+}

@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "plug",
+        "sentence": "Mom put the plug in the bath."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "play",
+        "sentence": "I like to play ball."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "blot",
+        "sentence": "I made a red blot with my paint."
+    }, {
+        "id": 4,
+        "type": ["HOMOPHONE"],
+        "word": "blew",
+        "sentence": "The wind blew the trees."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "clap",
+        "sentence": "I will clap for you."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "clip",
+        "sentence": "The fur on that dog needs a clip."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "flag",
+        "sentence": "The flag is red and blue."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "flop",
+        "sentence": "I went flop on my bed."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "glad",
+        "sentence": "I am glad you are here."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "crab",
+        "sentence": "We saw a crab on the sand."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "frog",
+        "sentence": "The frog is in the pond."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "from",
+        "sentence": "Can you jump from there?"
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "brim",
+        "sentence": "His glass was full to the brim."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "grub",
+        "sentence": "Look at the grub on that leaf."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "grab",
+        "sentence": "Can you please grab my bat?"
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "trip",
+        "sentence": "Try not to trip on the rocks."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "trap",
+        "sentence": "Dad will trap the rat."
+    }, {
+        "id": 18,
+        "type": ["HOMOGRAPH"],
+        "word": "prop",
+        "sentence": "Prop your book up on the table."
+    }, {
+        "id": 19,
+        "type": ["HOMOPHONE"],
+        "word": "pray",
+        "sentence": "We pray before bed."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "drop",
+        "sentence": "He will drop the ball."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "drip",
+        "sentence": "The tap went drip."
+    }]
+}

@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "too",
+        "sentence": "I can run and jump too."
+    }, {
+        "id": 2,
+        "type": ["HOMOGRAPH"],
+        "word": "boot",
+        "sentence": "My boot came off when I was running."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "food",
+        "sentence": "I eat healthy food."
+    }, {
+        "id": 4,
+        "type": ["HOMOGRAPH"],
+        "word": "pool",
+        "sentence": "I swim in the pool on hot days."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "roof",
+        "sentence": "Our roof has a leak in it."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "soon",
+        "sentence": "It will soon be my birthday."
+    }, {
+        "id": 7,
+        "type": ["HOMOGRAPH"],
+        "word": "room",
+        "sentence": "My room is special."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "loop",
+        "sentence": "Tie a loop to do up your laces."
+    }, {
+        "id": 9,
+        "type": ["HOMOGRAPH"],
+        "word": "school",
+        "sentence": "I walk to my school."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "tooth",
+        "sentence": "I lost my front tooth."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "cool",
+        "sentence": "I like to stay cool when it is hot."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "moon",
+        "sentence": "The moon is far away."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "broom",
+        "sentence": "Mom keeps the broom outside."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "tool",
+        "sentence": "An axe is a tool for chopping wood."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "mood",
+        "sentence": "I like to be in a good mood."
+    }]
+}

@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "off",
+        "sentence": "I took my shoes off before walking inside."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "cuff",
+        "sentence": "The cuff on my shirt was dirty."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "staff",
+        "sentence": "The hotel staff were nice."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "bell",
+        "sentence": "The bell rings at lunch time."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "tell",
+        "sentence": "I have to tell you something funny."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "hill",
+        "sentence": "We hiked up the hill."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "call",
+        "sentence": "Call me when you are ready."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "glass",
+        "sentence": "I filled my glass with cold water."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "dress",
+        "sentence": "My birthday dress is pretty."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "jazz",
+        "sentence": "I can play jazz music."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "puff",
+        "sentence": "I blew out my candles with one puff."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "yell",
+        "sentence": "Yell out if you need help."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "class",
+        "sentence": "My class is great."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "buzz",
+        "sentence": "Bees buzz and snakes hiss."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "hiss",
+        "sentence": "We heard the snake hiss."
+    }]
+}

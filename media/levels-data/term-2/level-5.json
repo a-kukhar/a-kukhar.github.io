@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOGRAPH"],
+        "word": "book",
+        "sentence": "I like to read a book before bed."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "look",
+        "sentence": "Look at that pretty rainbow."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "good",
+        "sentence": "Apples are good for you."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "cook",
+        "sentence": "My mom is a good cook."
+    }, {
+        "id": 5,
+        "type": ["HOMOPHONE"],
+        "word": "wood",
+        "sentence": "Dad chopped wood for the fire."
+    }, {
+        "id": 6,
+        "type": ["HOMOGRAPH"],
+        "word": "foot",
+        "sentence": "I hurt my foot."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "wool",
+        "sentence": "Wool comes from sheep."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "hood",
+        "sentence": "My coat has a hood on it."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "took",
+        "sentence": "My sister took my sweater."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "hook",
+        "sentence": "I got a fish on my hook."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "shook",
+        "sentence": "Mom shook the rug to dust it."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "sook",
+        "sentence": "My baby sister is a sook."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "soot",
+        "sentence": "Soot from a fire is black."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "crook",
+        "sentence": "The crook stole from the bank."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "brook",
+        "sentence": "A brook is a little creek."
+    }]
+}

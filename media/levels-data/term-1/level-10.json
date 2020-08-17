@@ -1,0 +1,68 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "chick",
+        "sentence": "The chick sat in the nest."
+    }, {
+        "id": 2,
+        "type": ["HOMOGRAPH"],
+        "word": "deck",
+        "sentence": "The cat sat on the back deck."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "ask",
+        "sentence": "Ask your mom if I can come."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "coin",
+        "sentence": "Can I see that coin?"
+    }, {
+        "id": 5,
+        "type": ["HOMOGRAPH"],
+        "word": "boil",
+        "sentence": "I need to boil water to make tea."
+    }, {
+        "id": 6,
+        "type": ["HOMOGRAPH"],
+        "word": "join",
+        "sentence": "I will join the boys at the park."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "that's",
+        "sentence": "That's not my pet."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "won't",
+        "sentence": "He won't like that."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "wasn't",
+        "sentence": "She wasn't going to bed."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "ahead",
+        "sentence": "He ran ahead of me."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "twenty",
+        "sentence": "I saw twenty shells on the beach."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "deaf",
+        "sentence": "My sister is deaf so she can/'t hear."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "left",
+        "sentence": "I left my lunch at home."
+    }]
+}

@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "helped",
+        "sentence": "We helped Mom make a cake."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "jumped",
+        "sentence": "I jumped over the rock."
+    }, {
+        "id": 3,
+        "type": ["HOMOGRAPH"],
+        "word": "picked",
+        "sentence": "I picked up litter from the ground."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "asked",
+        "sentence": "We asked the teacher if we could paint."
+    }, {
+        "id": 5,
+        "type": ["HOMOGRAPH"],
+        "word": "missed",
+        "sentence": "I missed the bus for school."
+    }, {
+        "id": 6,
+        "type": ["HOMOGRAPH"],
+        "word": "taped",
+        "sentence": "Mom taped up my foot."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "hoped",
+        "sentence": "We hoped it would be a sunny day."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "baked",
+        "sentence": "Mom baked a cake."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "moved",
+        "sentence": "We moved here last year."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "cared",
+        "sentence": "She cared for her puppy well."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "called",
+        "sentence": "I called out your name."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "looked",
+        "sentence": "We looked for our lost dog."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "lived",
+        "sentence": "I have lived here for a long time."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "used",
+        "sentence": "I used an alarm bell to wake up."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "worked",
+        "sentence": "They worked all day."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "placed",
+        "sentence": "Mom placed her hand on my arm."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "named",
+        "sentence": "We named our puppy Dexter."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "showed",
+        "sentence": "I showed my sister how to skip."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "sounded",
+        "sentence": "The barking dog sounded funny."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "wanted",
+        "sentence": "We all wanted to see the movie."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "dumped",
+        "sentence": "I dumped the bag on my bed."
+    }]
+}

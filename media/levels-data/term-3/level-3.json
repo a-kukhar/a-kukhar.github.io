@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "far",
+        "sentence": "Look how far I can kick the ball."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "car",
+        "sentence": "Mom has a new car."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "card",
+        "sentence": "Do you like the card I made?"
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "star",
+        "sentence": "I made a wish on a falling star."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "start",
+        "sentence": "The race was about to start."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "art",
+        "sentence": "My class loves art."
+    }, {
+        "id": 7,
+        "type": ["HOMOGRAPH"],
+        "word": "part",
+        "sentence": "Part of my toy is broken."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "tart",
+        "sentence": "Mom made a lemon tart."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "her",
+        "sentence": "Her eyes are blue."
+    }, {
+        "id": 10,
+        "type": ["HOMOGRAPH"],
+        "word": "herd",
+        "sentence": "A herd of cows crossed the road."
+    }, {
+        "id": 11,
+        "type": ["HOMOGRAPH"],
+        "word": "term",
+        "sentence": "This term we are going on camp."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "germ",
+        "sentence": "A germ can make you sick."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "bird",
+        "sentence": "Look at that bird in the tree."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "girl",
+        "sentence": "That girl can read well."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "sir",
+        "sentence": "We call our teacher Sir."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "dirt",
+        "sentence": "Don/'t play in the dirt."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "third",
+        "sentence": "I came third in the race."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "thirteen",
+        "sentence": "My big brother is thirteen."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "thirty",
+        "sentence": "My mom is thirty today."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "large",
+        "sentence": "I have a large school bag."
+    }, {
+        "id": 21,
+        "type": ["HOMOGRAPH"],
+        "word": "barge",
+        "sentence": "The barge took the cars across the river."
+    }]
+}

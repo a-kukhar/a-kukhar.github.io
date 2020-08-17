@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "cat",
+        "sentence": "My cat sits on the mat."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "bat",
+        "sentence": "He had a bat and ball."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "hat",
+        "sentence": "My hat is red."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "rat",
+        "sentence": "The cat ran after the rat."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "fat",
+        "sentence": "My dog is fat."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "mat",
+        "sentence": "I sat on the mat."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "bad",
+        "sentence": "I have a bad cat."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "dad",
+        "sentence": "I love my dad."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "sad",
+        "sentence": "He is sad."
+    }, {
+        "id": 10,
+        "type": ["HOMOGRAPH"],
+        "word": "pad",
+        "sentence": "The dog sat on the pad."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "mad",
+        "sentence": "Mom got mad at me."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "had",
+        "sentence": "We had fun in the sun."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "wet",
+        "sentence": "My hat got wet."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "met",
+        "sentence": "He met my mom."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "net",
+        "sentence": "I will get my net."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "pet",
+        "sentence": "I had a pet cat."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "get",
+        "sentence": "I will get my hat."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "let",
+        "sentence": "Mom let me run at the park."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "fed",
+        "sentence": "I fed our pet dog."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "bed",
+        "sentence": "I went to bed."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "pen",
+        "sentence": "This is my pen."
+    }]
+}

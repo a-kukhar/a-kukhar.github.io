@@ -1,0 +1,68 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "it's",
+        "sentence": "It's been a long day."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "that's",
+        "sentence": "That's not my pet."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "he's",
+        "sentence": "He's is the same class as me."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "she's",
+        "sentence": "She's not going to join the game."
+    }, {
+        "id": 5,
+        "type": ["HOMOPHONE"],
+        "word": "here's",
+        "sentence": "Here's my best toy."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "can't",
+        "sentence": "I can't find all my coins."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "didn't",
+        "sentence": "Mom didn't make that cake."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "wasn't",
+        "sentence": "He wasn't going for a swim."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "isn't",
+        "sentence": "Isn't it cold today?"
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "don't",
+        "sentence": "Don't tell Mom I sat in the mud."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "I'm",
+        "sentence": "I'm going to be seven next week."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "I'll",
+        "sentence": "I'll bring my ball to school."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "won't",
+        "sentence": "I won't get mad if you can't come."
+    }]
+}

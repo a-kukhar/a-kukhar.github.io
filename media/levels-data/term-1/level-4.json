@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "shed",
+        "sentence": "Dad works in the shed."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "shut",
+        "sentence": "The shed is shut."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "chin",
+        "sentence": "I cut my chin."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "chat",
+        "sentence": "I had a chat with the man."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "the",
+        "sentence": "I can see the sun."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "that",
+        "sentence": "That is a big shed."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "this",
+        "sentence": "This is a big bag."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "then",
+        "sentence": "We can chat and then go for a swim."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "when",
+        "sentence": "When are you going?"
+    }, {
+        "id": 10,
+        "type": ["HOMOPHONE"],
+        "word": "which",
+        "sentence": "Which one can I have?"
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "what",
+        "sentence": "What are you doing?"
+    }, {
+        "id": 12,
+        "type": ["HOMOPHONE"],
+        "word": "where",
+        "sentence": "Where are you going?"
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "stop",
+        "sentence": "The van must stop."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "step",
+        "sentence": "I can step up on top."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "still",
+        "sentence": "I sat still at my desk."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "spill",
+        "sentence": "I will spill my drink if I run."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "spot",
+        "sentence": "Can you spot the frog?"
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "skip",
+        "sentence": "Look at me skip."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "skin",
+        "sentence": "My cat has pink skin."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "small",
+        "sentence": "This is a small bag."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "smell",
+        "sentence": "I can smell fish."
+    }]
+}

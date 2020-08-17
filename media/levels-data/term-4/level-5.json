@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "she's",
+        "sentence": "She's my best friend."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "he's",
+        "sentence": "He's a fast runner."
+    }, {
+        "id": 3,
+        "type": ["HOMOPHONE"],
+        "word": "it's",
+        "sentence": "It's time for lunch."
+    }, {
+        "id": 4,
+        "type": ["HOMOPHONE"],
+        "word": "there's",
+        "sentence": "There's not much time before the movie starts."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "who's",
+        "sentence": "Who's talking?"
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "what's",
+        "sentence": "What's your name?"
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "can't",
+        "sentence": "I can't see my house."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "don't",
+        "sentence": "Don't call out in class."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "isn't",
+        "sentence": "This isn't my bag."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "didn't",
+        "sentence": "I didn't go outside."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "aren't",
+        "sentence": "They aren't coming over."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "I'm",
+        "sentence": "I'm in grade one."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "wouldn't",
+        "sentence": "He wouldn't give me my hat."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "couldn't",
+        "sentence": "We couldn't see any fish."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "shouldn't",
+        "sentence": "You shouldn't talk like that."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "haven't",
+        "sentence": "We haven't been to the zoo."
+    }, {
+        "id": 17,
+        "type": ["HOMOPHONE"],
+        "word": "we're",
+        "sentence": "We're going to bed now."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "won't",
+        "sentence": "I won't let you pass."
+    }, {
+        "id": 19,
+        "type": ["HOMOPHONE"],
+        "word": "they're",
+        "sentence": "They're going to the park with me."
+    }, {
+        "id": 20,
+        "type": ["HOMOPHONE"],
+        "word": "you're",
+        "sentence": "You're in my class."
+    }]
+}

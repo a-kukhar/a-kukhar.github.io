@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "Sunday",
+        "sentence": "Sunday is our family day."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "understand",
+        "sentence": "I can understand you."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "afternoon",
+        "sentence": "We will go home in the afternoon."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "somewhere",
+        "sentence": "I put my bag somewhere in here."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "sometimes",
+        "sentence": "Sometimes I get sad."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "homework",
+        "sentence": "I do my homework after school."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "himself",
+        "sentence": "He laughed at himself."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "breakfast",
+        "sentence": "I had pancakes for breakfast."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "birthday",
+        "sentence": "Today is my birthday."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "today",
+        "sentence": "We are going to the zoo today."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "without",
+        "sentence": "Don/'t come without your football."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "into",
+        "sentence": "The ball fell into the pool."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "anyone",
+        "sentence": "Has anyone seen my hat?"
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "below",
+        "sentence": "There is a zip below that pocket."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "rainbow",
+        "sentence": "After the rain came a rainbow."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "sunflower",
+        "sentence": "A sunflower is yellow like the sun."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "sunshine",
+        "sentence": "We like to play in the sunshine."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "upon",
+        "sentence": "He sat upon a rock."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "yourself",
+        "sentence": "Be kind to yourself."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "herself",
+        "sentence": "She sat by herself and read a book."
+    }]
+}

@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "bags",
+        "sentence": "We put our bags in the car."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "girls",
+        "sentence": "The girls danced around the room."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "games",
+        "sentence": "We like to play games at school."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "cakes",
+        "sentence": "Mom made cakes for my party."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "nails",
+        "sentence": "Dad used nails to fix my cubby."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "boys",
+        "sentence": "The boys played outside."
+    }, {
+        "id": 7,
+        "type": ["HOMOGRAPH"],
+        "word": "toys",
+        "sentence": "The toys were put away."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "trays",
+        "sentence": "We put the cakes onto trays."
+    }, {
+        "id": 9,
+        "type": ["HOMOPHONE"],
+        "word": "days",
+        "sentence": "A week has seven days."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "keys",
+        "sentence": "I have my own house keys."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "books",
+        "sentence": "I love to read books."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "boats",
+        "sentence": "I saw ten boats in the water."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "frogs",
+        "sentence": "The pond has many frogs."
+    }, {
+        "id": 14,
+        "type": ["HOMOGRAPH"],
+        "word": "coins",
+        "sentence": "I have some coins in my pocket."
+    }, {
+        "id": 15,
+        "type": ["HOMOGRAPH"],
+        "word": "cooks",
+        "sentence": "The cooks made us a nice meal."
+    }]
+}

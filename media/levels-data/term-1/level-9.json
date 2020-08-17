@@ -1,0 +1,68 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOGRAPH"],
+        "word": "web",
+        "sentence": "The spider made a big web."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "then",
+        "sentence": "Eat your lunch then you can play."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "left",
+        "sentence": "He left his book at home."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "them",
+        "sentence": "I can/'t find them."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "egg",
+        "sentence": "I had an egg for lunch."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "next",
+        "sentence": "Where are we going next?"
+    }, {
+        "id": 7,
+        "type": ["HOMOGRAPH"],
+        "word": "head",
+        "sentence": "I fell over and hit my head."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "ahead",
+        "sentence": "Dad ran ahead of me."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "twenty",
+        "sentence": "I saw twenty shells on the beach."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "send",
+        "sentence": "I will send the box to him."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "help",
+        "sentence": "I can help you look for your cat."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "deaf",
+        "sentence": "My sister is deaf so she can/'t hear."
+    }, {
+        "id": 13,
+        "type": ["HOMOGRAPH"],
+        "word": "read",
+        "sentence": "I read my book to Mom."
+    }]
+}

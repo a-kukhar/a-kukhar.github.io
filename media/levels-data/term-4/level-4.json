@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "going",
+        "sentence": "We are going to the park."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "ending",
+        "sentence": "Tick all the words ending in g."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "playing",
+        "sentence": "We will be playing tennis every day."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "eating",
+        "sentence": "Eating good food makes you feel good."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "flying",
+        "sentence": "The bird was flying from tree to tree."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "walking",
+        "sentence": "We have been walking to school every day."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "talking",
+        "sentence": "Stop talking so much in class."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "kicking",
+        "sentence": "I saw that boy kicking the ball."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "sleeping",
+        "sentence": "I am sleeping in a tent tonight."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "jumping",
+        "sentence": "I love jumping in the sand."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "cooking",
+        "sentence": "Dad is cooking lunch for us."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "looking",
+        "sentence": "We were looking for shells."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "meeting",
+        "sentence": "I am meeting my friend at school."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "pulling",
+        "sentence": "He was pulling me along on a rope."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "pushing",
+        "sentence": "I was pushing the cart."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "catching",
+        "sentence": "Catching fish can take time."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "reading",
+        "sentence": "I love reading books."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "ringing",
+        "sentence": "The school bell is ringing."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "cleaning",
+        "sentence": "I don't like cleaning my room."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "painting",
+        "sentence": "Mom hung my painting on the wall."
+    }]
+}

@@ -1,0 +1,78 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "out",
+        "sentence": "We went out for dinner."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "our",
+        "sentence": "This is our house."
+    }, {
+        "id": 3,
+        "type": ["HOMOPHONE"],
+        "word": "foul",
+        "sentence": "There was a foul smell in the bin."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "sour",
+        "sentence": "Lemons are sour."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "loud",
+        "sentence": "Our class can be loud."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "cow",
+        "sentence": "I saw a cow on the grass."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "now",
+        "sentence": "May I come over now?"
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "how",
+        "sentence": "How do you play that game?"
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "down",
+        "sentence": "I fell down the steps."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "town",
+        "sentence": "I went to town on the bus."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "brown",
+        "sentence": "My shoes are brown."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "shout",
+        "sentence": "Don't shout at me."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "about",
+        "sentence": "This is a story about a little lost boy."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "owl",
+        "sentence": "The owl let out a hoot."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "power",
+        "sentence": "There was no power after the storm."
+    }]
+}

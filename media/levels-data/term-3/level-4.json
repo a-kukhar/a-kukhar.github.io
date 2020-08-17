@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "for",
+        "sentence": "I made a card for Mom."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "torn",
+        "sentence": "My pocket is torn."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "horn",
+        "sentence": "That car horn is loud."
+    }, {
+        "id": 4,
+        "type": ["HOMOGRAPH"],
+        "word": "corn",
+        "sentence": "Do you like corn on the cob?"
+    }, {
+        "id": 5,
+        "type": ["HOMOPHONE"],
+        "word": "born",
+        "sentence": "I was born in this city."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "worn",
+        "sentence": "I have worn this dress before."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "cord",
+        "sentence": "Dad tied the wood together with cord."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "lord",
+        "sentence": "We thank the lord for our food."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "fork",
+        "sentence": "Use a fork to eat your food."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "cork",
+        "sentence": "Cork and fork sound the same."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "pork",
+        "sentence": "Pork is meat from a pig."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "fort",
+        "sentence": "The army has a fort."
+    }, {
+        "id": 13,
+        "type": ["HOMOGRAPH"],
+        "word": "form",
+        "sentence": "We form a line to enter the classroom."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "fur",
+        "sentence": "My dog has thick fur."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "curl",
+        "sentence": "I like to curl up in bed."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "hurt",
+        "sentence": "Dad hurt his leg at work."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "turn",
+        "sentence": "We have to turn right here."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "burn",
+        "sentence": "Your skin will burn in the sun."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "urn",
+        "sentence": "Mom loves her old glass urn."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "purple",
+        "sentence": "I love purple."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "turtle",
+        "sentence": "The turtle swam in the sea."
+    }]
+}

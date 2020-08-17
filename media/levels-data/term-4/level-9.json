@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "morning",
+        "sentence": "I walk to school in the morning."
+    }, {
+        "id": 2,
+        "type": ["HOMOGRAPH"],
+        "word": "coin",
+        "sentence": "Look at this gold coin."
+    }, {
+        "id": 3,
+        "type": ["HOMOGRAPH"],
+        "word": "boil",
+        "sentence": "I can boil the eggs."
+    }, {
+        "id": 4,
+        "type": ["HOMOGRAPH"],
+        "word": "room",
+        "sentence": "My room is big."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "wasn/'t",
+        "sentence": "She wasn/'t at school today."
+    }, {
+        "id": 6,
+        "type": ["HOMOGRAPH"],
+        "word": "school",
+        "sentence": "I like going to school."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "quick",
+        "sentence": "He is quick when he runs."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "cute",
+        "sentence": "My puppy is cute."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "when",
+        "sentence": "When are you coming over?"
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "thank",
+        "sentence": "Thank you for my gift."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "spill",
+        "sentence": "Don/'t spill your milk."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "boys",
+        "sentence": "All the boys like football."
+    }, {
+        "id": 13,
+        "type": ["HOMOGRAPH"],
+        "word": "book",
+        "sentence": "I like this book the best."
+    }, {
+        "id": 14,
+        "type": ["HOMOPHONE"],
+        "word": "week",
+        "sentence": "There are seven days in one week."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "wool",
+        "sentence": "Wool comes from a sheep."
+    }, {
+        "id": 16,
+        "type": ["HOMOGRAPH"],
+        "word": "foot",
+        "sentence": "Her foot was as big as mine."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "girls",
+        "sentence": "The girls like to play outside."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "now",
+        "sentence": "I can come over now."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "swim",
+        "sentence": "I love to swim in summer."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "ask",
+        "sentence": "Can I ask you something?"
+    }]
+}

@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOGRAPH"],
+        "word": "bit",
+        "sentence": "The dog bit me."
+    }, {
+        "id": 2,
+        "type": ["HOMOGRAPH"],
+        "word": "fit",
+        "sentence": "I am so fit."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "hit",
+        "sentence": "Hit the ball."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "lid",
+        "sentence": "The lid is on the tin."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "kid",
+        "sentence": "The kid hit the ball."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "rid",
+        "sentence": "I got rid of my old hat."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "did",
+        "sentence": "Mom did not see me."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "hid",
+        "sentence": "We hid under the bed."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "hot",
+        "sentence": "It is so hot."
+    }, {
+        "id": 10,
+        "type": ["HOMOPHONE"],
+        "word": "not",
+        "sentence": "I will not go to the park."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "pot",
+        "sentence": "It is a big pot."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "cot",
+        "sentence": "The baby is in the cot."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "lot",
+        "sentence": "You have a lot of pets."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "got",
+        "sentence": "I got a drink."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "but",
+        "sentence": "I am here but you are not."
+    }, {
+        "id": 16,
+        "type": ["HOMOGRAPH"],
+        "word": "nut",
+        "sentence": "I had a nut."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "hut",
+        "sentence": "The hut is on the hill."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "rod",
+        "sentence": "I use this rod to fish."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "nod",
+        "sentence": "I will nod to say yes."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "bud",
+        "sentence": "The rose bud is small."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "mud",
+        "sentence": "My rod fell in the mud."
+    }]
+}

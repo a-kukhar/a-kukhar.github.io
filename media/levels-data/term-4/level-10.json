@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "benches",
+        "sentence": "The team sat on long benches."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "Wednesday",
+        "sentence": "Come to my house on Wednesday."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "summer",
+        "sentence": "Summer is the best time of the year."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "cold",
+        "sentence": "Winter is too cold."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "photo",
+        "sentence": "I took a photo of my puppy."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "they",
+        "sentence": "They packed their bags for the trip."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "hurt",
+        "sentence": "She hurt her leg."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "thirty",
+        "sentence": "My mom is thirty today."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "autumn",
+        "sentence": "Autumn starts to get cold."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "eighty",
+        "sentence": "Grandad is eighty years old."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "ninth",
+        "sentence": "This is the ninth lap around."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "purple",
+        "sentence": "I have a purple bag."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "orange",
+        "sentence": "I had an orange for lunch."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "breakfast",
+        "sentence": "I had pancakes for breakfast."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "birthday",
+        "sentence": "Today is my birthday."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "without",
+        "sentence": "Don't come without your football."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "brown",
+        "sentence": "Our dog is brown."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "white",
+        "sentence": "Snow is white."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "isn't",
+        "sentence": "This isn't my book."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "can't",
+        "sentence": "I can't see my bag."
+    }]
+}

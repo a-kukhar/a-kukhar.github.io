@@ -1,0 +1,33 @@
+{
+    "exercises": [{
+        "id": 1,
+        "name": "Word Jumble",
+        "additionaldata": {},
+        "instructions": "Listen to the word. Can you unjumble this word in the sentence to spell it correctly? Click the 'mark' button when you are finished. You can tap on the 'Play Word' button to hear the word again or the 'Play Sentence' button to hear the word used in a sentence."
+    }, {
+        "id": 2,
+        "name": "Word Match",
+        "additionaldata": {},
+        "instructions": "Look at the word that the rabbit shows you. Now tap on the same word on the wooden panels. You can tap on the 'Play Word' button to hear the word again or the 'Play Sentence' button to hear the word used in a sentence."
+    }, {
+        "id": 3,
+        "name": "Word Catch",
+        "additionaldata": {},
+        "instructions": "Listen to the word and then tap on it. You can tap on the 'Play Word' button to hear the word again or the 'Play Sentence' button to hear the word used in a sentence."
+    }, {
+        "id": 4,
+        "name": "Word Build",
+        "additionaldata": {},
+        "instructions": "Listen to the word then tap on the egg where this letter belongs in the word. You can tap on the 'Play Word' button to hear the word again or the 'Play Sentence' button to hear the word used in a sentence."
+    }, {
+        "id": 5,
+        "name": "Word Hide",
+        "additionaldata": {},
+        "instructions": "Look at the word that the rabbit shows you. Now try to spell it correctly. Click the 'mark' button when you are finished. You can tap on the 'Play Word' button to hear the word again or the 'Play Sentence' button to hear the word used in a sentence."
+    }, {
+        "id": 6,
+        "name": "Word Spell",
+        "additionaldata": {},
+        "instructions": "Click on any squirrel. Listen to the word and then spell it correctly.  Click the 'mark' button when you are finished. You can tap on the 'Play Word' button to hear the word again or the 'Play Sentence' button to hear the word used in a sentence."
+    }]
+}

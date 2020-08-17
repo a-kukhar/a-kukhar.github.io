@@ -1,0 +1,68 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "chick",
+        "sentence": "The chick sat in the nest."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "lick",
+        "sentence": "Lick your ice cream or it will melt."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "luck",
+        "sentence": "I have good luck."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "sock",
+        "sentence": "I have lost my red sock."
+    }, {
+        "id": 5,
+        "type": ["HOMOGRAPH"],
+        "word": "back",
+        "sentence": "My dog ran back home."
+    }, {
+        "id": 6,
+        "type": ["HOMOGRAPH"],
+        "word": "deck",
+        "sentence": "Our back deck is big."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "make",
+        "sentence": "I will make a cake."
+    }, {
+        "id": 8,
+        "type": ["HOMOGRAPH"],
+        "word": "rake",
+        "sentence": "Dad put the rake in the shed."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "take",
+        "sentence": "I will take my dog for a walk."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "lake",
+        "sentence": "I like to run around the lake."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "pink",
+        "sentence": "My top is pink."
+    }, {
+        "id": 12,
+        "type": ["HOMOGRAPH"],
+        "word": "book",
+        "sentence": "I like this book."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "ask",
+        "sentence": "Ask your mom if I can come."
+    }]
+}

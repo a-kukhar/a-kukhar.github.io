@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "zero",
+        "sentence": "Zero comes before one."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "one",
+        "sentence": "I have one bike."
+    }, {
+        "id": 3,
+        "type": ["HOMOPHONE"],
+        "word": "two",
+        "sentence": "I have two hands."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "three",
+        "sentence": "There are three children in my family."
+    }, {
+        "id": 5,
+        "type": ["HOMOPHONE"],
+        "word": "four",
+        "sentence": "Many animals have four legs."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "five",
+        "sentence": "Four and one makes five."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "six",
+        "sentence": "I am six today."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "seven",
+        "sentence": "Next year I will be seven."
+    }, {
+        "id": 9,
+        "type": ["HOMOPHONE"],
+        "word": "eight",
+        "sentence": "Four and four makes eight."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "nine",
+        "sentence": "Nine sounds like line."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "ten",
+        "sentence": "My brother is ten today."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "twenty",
+        "sentence": "Ten and ten makes twenty."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "thirty",
+        "sentence": "The shopping cost thirty dollars."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "forty",
+        "sentence": "Forty is ten more than thirty."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "fifty",
+        "sentence": "My grandma is fifty years old."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "sixty",
+        "sentence": "I counted sixty stars."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "seventy",
+        "sentence": "Grandma is seventy."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "eighty",
+        "sentence": "Grandad is eighty years old."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "ninety",
+        "sentence": "Ten more than eighty is ninety."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "hundred",
+        "sentence": "We counted to one hundred."
+    }]
+}

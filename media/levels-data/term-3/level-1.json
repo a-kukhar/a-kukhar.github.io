@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOPHONE"],
+        "word": "to",
+        "sentence": "We walked to the store."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "too",
+        "sentence": "The sand is too hot."
+    }, {
+        "id": 3,
+        "type": ["HOMOPHONE"],
+        "word": "two",
+        "sentence": "My little brother is two."
+    }, {
+        "id": 4,
+        "type": ["HOMOPHONE"],
+        "word": "see",
+        "sentence": "Can you see that bee?"
+    }, {
+        "id": 5,
+        "type": ["HOMOPHONE"],
+        "word": "sea",
+        "sentence": "We fish by the sea."
+    }, {
+        "id": 6,
+        "type": ["HOMOPHONE"],
+        "word": "be",
+        "sentence": "I will be home soon."
+    }, {
+        "id": 7,
+        "type": ["HOMOPHONE"],
+        "word": "bee",
+        "sentence": "A bee sting is very painful."
+    }, {
+        "id": 8,
+        "type": ["HOMOPHONE"],
+        "word": "for",
+        "sentence": "We are going away for the holidays."
+    }, {
+        "id": 9,
+        "type": ["HOMOPHONE"],
+        "word": "four",
+        "sentence": "I ate four slices of pizza."
+    }, {
+        "id": 10,
+        "type": ["HOMOPHONE"],
+        "word": "one",
+        "sentence": "May I please have one slice of cake?"
+    }, {
+        "id": 11,
+        "type": ["HOMOPHONE"],
+        "word": "won",
+        "sentence": "I won the final game."
+    }, {
+        "id": 12,
+        "type": ["HOMOPHONE"],
+        "word": "here",
+        "sentence": "I will put my things here."
+    }, {
+        "id": 13,
+        "type": ["HOMOPHONE"],
+        "word": "hear",
+        "sentence": "Can you hear Mom?"
+    }, {
+        "id": 14,
+        "type": ["HOMOPHONE"],
+        "word": "rode",
+        "sentence": "We rode our bikes home."
+    }, {
+        "id": 15,
+        "type": ["HOMOPHONE"],
+        "word": "road",
+        "sentence": "Don/'t walk on the road."
+    }, {
+        "id": 16,
+        "type": ["HOMOPHONE"],
+        "word": "maid",
+        "sentence": "The maid cleaned the house."
+    }, {
+        "id": 17,
+        "type": ["HOMOPHONE"],
+        "word": "made",
+        "sentence": "Our class made pretty lanterns."
+    }, {
+        "id": 18,
+        "type": ["HOMOPHONE"],
+        "word": "write",
+        "sentence": "I can write many things now."
+    }, {
+        "id": 19,
+        "type": ["HOMOPHONE"],
+        "word": "right",
+        "sentence": "I write with my right hand."
+    }, {
+        "id": 20,
+        "type": ["HOMOPHONE"],
+        "word": "sun",
+        "sentence": "The sun is very hot."
+    }, {
+        "id": 21,
+        "type": ["HOMOPHONE"],
+        "word": "son",
+        "sentence": "His son looks just like him."
+    }]
+}

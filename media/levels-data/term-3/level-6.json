@@ -1,0 +1,58 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "Sunday",
+        "sentence": "Sunday is our family day."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "Monday",
+        "sentence": "We go to school on Monday."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "Tuesday",
+        "sentence": "I play football on Tuesday."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "Wednesday",
+        "sentence": "Come to my house on Wednesday."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "Thursday",
+        "sentence": "We went shopping on Thursday."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "Friday",
+        "sentence": "We will go to the movies on Friday."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "Saturday",
+        "sentence": "Mom does the shopping on Saturday."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "summer",
+        "sentence": "Summer is the best time of year."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "autumn",
+        "sentence": "Autumn starts to get cold."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "winter",
+        "sentence": "I think winter is too cold."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "spring",
+        "sentence": "Spring makes me feel happy."
+    }]
+}

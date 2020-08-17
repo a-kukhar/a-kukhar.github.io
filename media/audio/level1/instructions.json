@@ -1,0 +1,40 @@
+{
+  "resources": [
+    "instructions.ogg",
+    "instructions.m4a",
+    "instructions.mp3",
+    "instructions.ac3"
+  ],
+  "spritemap": {
+    "word_build": {
+      "start": 0,
+      "end": 16.79673469387755,
+      "loop": false
+    },
+    "word_catch": {
+      "start": 18,
+      "end": 31.688163265306123,
+      "loop": false
+    },
+    "word_hide": {
+      "start": 33,
+      "end": 52.748571428571424,
+      "loop": false
+    },
+    "word_jumble": {
+      "start": 54,
+      "end": 75.52489795918368,
+      "loop": false
+    },
+    "word_match": {
+      "start": 77,
+      "end": 94.00571428571429,
+      "loop": false
+    },
+    "word_spell": {
+      "start": 96,
+      "end": 114.49469387755101,
+      "loop": false
+    }
+  }
+}

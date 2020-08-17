@@ -1,0 +1,58 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "black",
+        "sentence": "I have a black cat."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "blue",
+        "sentence": "My eyes are blue."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "brown",
+        "sentence": "Our dog is brown."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "green",
+        "sentence": "That tree is green."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "gray",
+        "sentence": "The sky was gray."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "orange",
+        "sentence": "I had an orange for lunch."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "purple",
+        "sentence": "I have a purple bag."
+    }, {
+        "id": 8,
+        "type": ["HOMOPHONE"],
+        "word": "red",
+        "sentence": "The flag was red and blue."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "white",
+        "sentence": "Snow is white."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "yellow",
+        "sentence": "I have a yellow pencil."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "pink",
+        "sentence": "My sister likes pink."
+    }]   
+}

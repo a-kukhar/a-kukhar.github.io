@@ -1,0 +1,68 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "boy",
+        "sentence": "That boy can swim well."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "boys",
+        "sentence": "The boys ran fast."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "joy",
+        "sentence": "We are full of joy."
+    }, {
+        "id": 4,
+        "type": ["HOMOGRAPH"],
+        "word": "toy",
+        "sentence": "I like my new toy."
+    }, {
+        "id": 5,
+        "type": ["HOMOGRAPH"],
+        "word": "toys",
+        "sentence": "We gave my old toys away."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "soy",
+        "sentence": "I like to drink soy milk."
+    }, {
+        "id": 7,
+        "type": ["HOMOGRAPH"],
+        "word": "foil",
+        "sentence": "Mom put foil over my lunch."
+    }, {
+        "id": 8,
+        "type": ["HOMOGRAPH"],
+        "word": "coin",
+        "sentence": "Can I see that coin?"
+    }, {
+        "id": 9,
+        "type": ["HOMOGRAPH"],
+        "word": "coins",
+        "sentence": "I like to look at coins."
+    }, {
+        "id": 10,
+        "type": ["HOMOGRAPH"],
+        "word": "boil",
+        "sentence": "Mom will boil water for her tea."
+    }, {
+        "id": 11,
+        "type": ["HOMOGRAPH"],
+        "word": "oil",
+        "sentence": "Dad put oil in the car."
+    }, {
+        "id": 12,
+        "type": ["HOMOGRAPH"],
+        "word": "oils",
+        "sentence": "I like the smell of nice oils."
+    }, {
+        "id": 13,
+        "type": ["HOMOGRAPH"],
+        "word": "join",
+        "sentence": "I will join you for a swim."
+    }]
+}

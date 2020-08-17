@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "singer",
+        "sentence": "I like that singer."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "teacher",
+        "sentence": "My teacher is kind to us."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "builder",
+        "sentence": "My dad is a builder."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "reporter",
+        "sentence": "A reporter reports the news."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "painter",
+        "sentence": "The painter painted our house."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "player",
+        "sentence": "She is the best player in our team."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "leader",
+        "sentence": "You are our class leader."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "reader",
+        "sentence": "I am a good reader."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "printer",
+        "sentence": "Our home printer is very fast."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "waiter",
+        "sentence": "The waiter took our order."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "cleaner",
+        "sentence": "We have a pool cleaner."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "banker",
+        "sentence": "Our banker gave me a money box."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "farmer",
+        "sentence": "The farmer looked after his crops."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "worker",
+        "sentence": "My teacher says I am a good worker."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "trainer",
+        "sentence": "The lion trainer was brave."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "zookeeper",
+        "sentence": "The zookeeper fed the animals."
+    }, {
+        "id": 17,
+        "type": ["HOMOGRAPH"],
+        "word": "runner",
+        "sentence": "He is a fast runner."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "carer",
+        "sentence": "The carer took the girl for a walk."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "tamer",
+        "sentence": "A lion tamer is brave."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "jailer",
+        "sentence": "The jailer locked the door."
+    }]
+}

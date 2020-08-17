@@ -1,0 +1,108 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "along",
+        "sentence": "The car drove along the street."
+    }, {
+        "id": 2,
+        "type": ["HOMOPHONE"],
+        "word": "morning",
+        "sentence": "The sun was up this morning."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "sing",
+        "sentence": "I can sing a song."
+    }, {
+        "id": 4,
+        "type": ["HOMOPHONE"],
+        "word": "sent",
+        "sentence": "I sent it to him."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "went",
+        "sentence": "I went to bed."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "and",
+        "sentence": "Mom and Dad went to bed."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "second",
+        "sentence": "I came second."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "hand",
+        "sentence": "My hand is wet."
+    }, {
+        "id": 9,
+        "type": ["HOMOGRAPH"],
+        "word": "wind",
+        "sentence": "The wind made the tree fall."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "thank",
+        "sentence": "I said thank you."
+    }, {
+        "id": 11,
+        "type": ["HOMOGRAPH"],
+        "word": "bank",
+        "sentence": "Dad went to the bank."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "pink",
+        "sentence": "I have a pink hat."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "jump",
+        "sentence": "Jump in the pond."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "camp",
+        "sentence": "I will camp in a tent."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "lamp",
+        "sentence": "The lamp is on."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "snap",
+        "sentence": "The trap will snap shut."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "snip",
+        "sentence": "I will snip the string."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "scan",
+        "sentence": "Can you scan over this?"
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "scat",
+        "sentence": "The cat went scat when I came along."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "swim",
+        "sentence": "I went for a swim."
+    }, {
+        "id": 21,
+        "type": [],
+        "word": "swam",
+        "sentence": "I swam across the river."
+    }]
+}

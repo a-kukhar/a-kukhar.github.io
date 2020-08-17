@@ -1,0 +1,63 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "give",
+        "sentence": "I will give you my book."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "love",
+        "sentence": "I love my mom and dad."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "have",
+        "sentence": "We have big eyes."
+    }, {
+        "id": 4,
+        "type": ["HOMOGRAPH"],
+        "word": "live",
+        "sentence": "They live in a nice home."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "move",
+        "sentence": "Move your chair closer."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "glove",
+        "sentence": "I lost a glove today."
+    }, {
+        "id": 7,
+        "type": ["HOMOPHONE"],
+        "word": "some",
+        "sentence": "May I have some cake?"
+    }, {
+        "id": 8,
+        "type": ["HOMOPHONE"],
+        "word": "none",
+        "sentence": "There is none left."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "gone",
+        "sentence": "All the books have gone."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "done",
+        "sentence": "I have done my jobs for today."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "dove",
+        "sentence": "The dove sat in its nest."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "come",
+        "sentence": "Please come over and play."
+    }]
+}

@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "chin",
+        "sentence": "I hit my chin on the window."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "chat",
+        "sentence": "We had a chat about manners."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "shop",
+        "sentence": "Mom and I went to the shop."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "shut",
+        "sentence": "Please shut the door."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "what",
+        "sentence": "What are you doing on Saturday?"
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "when",
+        "sentence": "When are we going to the movies?"
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "phone",
+        "sentence": "I took a photo with Mom/'s phone."
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "photo",
+        "sentence": "I took a photo of my puppy."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "thanks",
+        "sentence": "Be polite and say thanks."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "they",
+        "sentence": "They were all going to the beach."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "these",
+        "sentence": "These are my boots."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "those",
+        "sentence": "Those boots are yours."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "why",
+        "sentence": "Why did it have to rain today?"
+    }, {
+        "id": 14,
+        "type": ["HOMOPHONE"],
+        "word": "where",
+        "sentence": "Where did I put my hat?"
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "shout",
+        "sentence": "Please don/'t shout in the movies."
+    }, {
+        "id": 16,
+        "type": [],
+        "word": "short",
+        "sentence": "Some say I am too short."
+    }, {
+        "id": 17,
+        "type": ["HOMOGRAPH"],
+        "word": "whale",
+        "sentence": "A whale lives in the sea."
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "white",
+        "sentence": "My teeth are white."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "think",
+        "sentence": "I think I will have soup for lunch."
+    }, {
+        "id": 20,
+        "type": ["HOMOGRAPH"],
+        "word": "chip",
+        "sentence": "I have a chip in my tooth."
+    }]
+}

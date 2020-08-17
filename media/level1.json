@@ -1,0 +1,9042 @@
+{
+	"textures": [
+		{
+			"image": "level1-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "04 word jumble/word_jumble_centre",
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1295,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1295,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1301,
+						"h": 800
+					}
+				},
+				{
+					"filename": "00 common/end_board",
+					"frame": {
+						"x": 1298,
+						"y": 1,
+						"w": 745,
+						"h": 595
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 745,
+						"h": 595
+					},
+					"sourceSize": {
+						"w": 745,
+						"h": 595
+					}
+				},
+				{
+					"filename": "00 common/music_board",
+					"frame": {
+						"x": 1298,
+						"y": 598,
+						"w": 705,
+						"h": 254
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 705,
+						"h": 254
+					},
+					"sourceSize": {
+						"w": 705,
+						"h": 254
+					}
+				},
+				{
+					"filename": "00 music/music_board",
+					"frame": {
+						"x": 1298,
+						"y": 598,
+						"w": 705,
+						"h": 254
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 705,
+						"h": 254
+					},
+					"sourceSize": {
+						"w": 705,
+						"h": 254
+					}
+				},
+				{
+					"filename": "06 wordspell/word_spell_background",
+					"frame": {
+						"x": 1,
+						"y": 803,
+						"w": 1293,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1293,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1293,
+						"h": 800
+					}
+				},
+				{
+					"filename": "00 common/clock",
+					"frame": {
+						"x": 2005,
+						"y": 598,
+						"w": 37,
+						"h": 39
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 39
+					},
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0001",
+					"frame": {
+						"x": 2044,
+						"y": 598,
+						"w": 3,
+						"h": 3
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0012",
+					"frame": {
+						"x": 2044,
+						"y": 598,
+						"w": 3,
+						"h": 3
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0013",
+					"frame": {
+						"x": 2044,
+						"y": 598,
+						"w": 3,
+						"h": 3
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0014",
+					"frame": {
+						"x": 2044,
+						"y": 598,
+						"w": 3,
+						"h": 3
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0015",
+					"frame": {
+						"x": 2044,
+						"y": 598,
+						"w": 3,
+						"h": 3
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "00 common/close_btn",
+					"frame": {
+						"x": 2005,
+						"y": 639,
+						"w": 36,
+						"h": 36
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 36
+					},
+					"sourceSize": {
+						"w": 36,
+						"h": 36
+					}
+				},
+				{
+					"filename": "00 common/tick",
+					"frame": {
+						"x": 2005,
+						"y": 677,
+						"w": 35,
+						"h": 30
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 30
+					},
+					"sourceSize": {
+						"w": 35,
+						"h": 30
+					}
+				},
+				{
+					"filename": "00 common/particle",
+					"frame": {
+						"x": 2005,
+						"y": 709,
+						"w": 30,
+						"h": 28
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 30,
+						"h": 28
+					},
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "00 common/checkbox0002",
+					"frame": {
+						"x": 2005,
+						"y": 739,
+						"w": 30,
+						"h": 25
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 25
+					},
+					"sourceSize": {
+						"w": 30,
+						"h": 25
+					}
+				},
+				{
+					"filename": "00 common/cross",
+					"frame": {
+						"x": 2005,
+						"y": 766,
+						"w": 29,
+						"h": 30
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 29,
+						"h": 30
+					},
+					"sourceSize": {
+						"w": 29,
+						"h": 30
+					}
+				},
+				{
+					"filename": "00 common/checkbox0001",
+					"frame": {
+						"x": 2005,
+						"y": 798,
+						"w": 26,
+						"h": 25
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 25
+					},
+					"sourceSize": {
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "00 common/nail",
+					"frame": {
+						"x": 2033,
+						"y": 798,
+						"w": 12,
+						"h": 12
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 12
+					},
+					"sourceSize": {
+						"w": 12,
+						"h": 12
+					}
+				},
+				{
+					"filename": "00 common/sentence_panel_rope",
+					"frame": {
+						"x": 2005,
+						"y": 825,
+						"w": 19,
+						"h": 104
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 104
+					},
+					"sourceSize": {
+						"w": 19,
+						"h": 104
+					}
+				},
+				{
+					"filename": "_white_",
+					"frame": {
+						"x": 2026,
+						"y": 825,
+						"w": 16,
+						"h": 16
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_monkey",
+					"frame": {
+						"x": 1,
+						"y": 1605,
+						"w": 299,
+						"h": 412
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 412
+					},
+					"sourceSize": {
+						"w": 299,
+						"h": 412
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_underline",
+					"frame": {
+						"x": 1,
+						"y": 2019,
+						"w": 212,
+						"h": 26
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 212,
+						"h": 26
+					},
+					"sourceSize": {
+						"w": 212,
+						"h": 26
+					}
+				},
+				{
+					"filename": "00 Menu/privacy_policy",
+					"frame": {
+						"x": 215,
+						"y": 2019,
+						"w": 83,
+						"h": 19
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 19
+					},
+					"sourceSize": {
+						"w": 83,
+						"h": 19
+					}
+				},
+				{
+					"filename": "00 login/login_divider",
+					"frame": {
+						"x": 215,
+						"y": 2040,
+						"w": 401,
+						"h": 5
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 401,
+						"h": 5
+					},
+					"sourceSize": {
+						"w": 401,
+						"h": 5
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0011",
+					"frame": {
+						"x": 302,
+						"y": 1605,
+						"w": 375,
+						"h": 365
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 365
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "00 common/btn_details",
+					"frame": {
+						"x": 618,
+						"y": 1972,
+						"w": 75,
+						"h": 75
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 75
+					},
+					"sourceSize": {
+						"w": 76,
+						"h": 76
+					}
+				},
+				{
+					"filename": "00 common/key_caps",
+					"frame": {
+						"x": 302,
+						"y": 1972,
+						"w": 90,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 90,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 common/key_mark",
+					"frame": {
+						"x": 394,
+						"y": 1972,
+						"w": 90,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 90,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 common/music_backward",
+					"frame": {
+						"x": 486,
+						"y": 1972,
+						"w": 61,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 61,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 music/music_backward",
+					"frame": {
+						"x": 486,
+						"y": 1972,
+						"w": 61,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 61,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 common/music_forward",
+					"frame": {
+						"x": 549,
+						"y": 1972,
+						"w": 61,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 61,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 music/music_forward",
+					"frame": {
+						"x": 549,
+						"y": 1972,
+						"w": 61,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 61,
+						"h": 60
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0012",
+					"frame": {
+						"x": 679,
+						"y": 1605,
+						"w": 366,
+						"h": 352
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 366,
+						"h": 352
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_board",
+					"frame": {
+						"x": 695,
+						"y": 1959,
+						"w": 273,
+						"h": 87
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 273,
+						"h": 87
+					},
+					"sourceSize": {
+						"w": 273,
+						"h": 87
+					}
+				},
+				{
+					"filename": "00 Menu/menu_toolbar",
+					"frame": {
+						"x": 970,
+						"y": 1959,
+						"w": 461,
+						"h": 84
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 461,
+						"h": 84
+					},
+					"sourceSize": {
+						"w": 461,
+						"h": 84
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0010",
+					"frame": {
+						"x": 1047,
+						"y": 1605,
+						"w": 336,
+						"h": 345
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 20,
+						"w": 336,
+						"h": 345
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "01 word build/word_build_bottom_left",
+					"frame": {
+						"x": 1433,
+						"y": 854,
+						"w": 537,
+						"h": 141
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 0,
+						"w": 537,
+						"h": 141
+					},
+					"sourceSize": {
+						"w": 641,
+						"h": 141
+					}
+				},
+				{
+					"filename": "00 login/login_google_classroom_logo",
+					"frame": {
+						"x": 1296,
+						"y": 854,
+						"w": 135,
+						"h": 133
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 21,
+						"w": 135,
+						"h": 133
+					},
+					"sourceSize": {
+						"w": 175,
+						"h": 175
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0004",
+					"frame": {
+						"x": 1296,
+						"y": 989,
+						"w": 135,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 135,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "00 common/btn_play",
+					"frame": {
+						"x": 1972,
+						"y": 931,
+						"w": 75,
+						"h": 75
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 75
+					},
+					"sourceSize": {
+						"w": 76,
+						"h": 76
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_tree_stump",
+					"frame": {
+						"x": 1433,
+						"y": 997,
+						"w": 514,
+						"h": 179
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 514,
+						"h": 179
+					},
+					"sourceSize": {
+						"w": 514,
+						"h": 179
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0045",
+					"frame": {
+						"x": 1296,
+						"y": 1106,
+						"w": 134,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 134,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 Menu/bear_hand",
+					"frame": {
+						"x": 1949,
+						"y": 1008,
+						"w": 97,
+						"h": 95
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 95
+					},
+					"sourceSize": {
+						"w": 97,
+						"h": 95
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0003",
+					"frame": {
+						"x": 1949,
+						"y": 1105,
+						"w": 96,
+						"h": 44
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 85,
+						"w": 96,
+						"h": 44
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "00 common/medal_bronze",
+					"frame": {
+						"x": 1949,
+						"y": 1151,
+						"w": 94,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 94,
+						"h": 118
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0004",
+					"frame": {
+						"x": 1296,
+						"y": 1271,
+						"w": 253,
+						"h": 329
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 35,
+						"w": 253,
+						"h": 329
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_menu_btn",
+					"frame": {
+						"x": 1432,
+						"y": 1178,
+						"w": 93,
+						"h": 91
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 91
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 92
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_repeat_btn",
+					"frame": {
+						"x": 1527,
+						"y": 1178,
+						"w": 93,
+						"h": 91
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 91
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 92
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0009",
+					"frame": {
+						"x": 1622,
+						"y": 1178,
+						"w": 325,
+						"h": 247
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 26,
+						"w": 325,
+						"h": 247
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "01 word build/word_build__bottom_right",
+					"frame": {
+						"x": 1551,
+						"y": 1427,
+						"w": 495,
+						"h": 132
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 132
+					},
+					"sourceSize": {
+						"w": 641,
+						"h": 132
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0011",
+					"frame": {
+						"x": 1949,
+						"y": 1271,
+						"w": 93,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0030",
+					"frame": {
+						"x": 1296,
+						"y": 1226,
+						"w": 78,
+						"h": 40
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 98,
+						"w": 78,
+						"h": 40
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "00 common/key_delete",
+					"frame": {
+						"x": 1551,
+						"y": 1271,
+						"w": 60,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 60,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 common/key_hide",
+					"frame": {
+						"x": 1551,
+						"y": 1333,
+						"w": 60,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 60,
+						"h": 60
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0001",
+					"frame": {
+						"x": 1551,
+						"y": 1395,
+						"w": 56,
+						"h": 29
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 109,
+						"w": 56,
+						"h": 29
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0005",
+					"frame": {
+						"x": 1385,
+						"y": 1602,
+						"w": 173,
+						"h": 343
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 22,
+						"w": 173,
+						"h": 343
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0009",
+					"frame": {
+						"x": 1385,
+						"y": 1602,
+						"w": 173,
+						"h": 343
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 22,
+						"w": 173,
+						"h": 343
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0002",
+					"frame": {
+						"x": 1551,
+						"y": 1561,
+						"w": 78,
+						"h": 39
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 95,
+						"w": 78,
+						"h": 39
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0008",
+					"frame": {
+						"x": 1631,
+						"y": 1561,
+						"w": 416,
+						"h": 177
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 30,
+						"w": 416,
+						"h": 177
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_full",
+					"frame": {
+						"x": 1433,
+						"y": 1947,
+						"w": 84,
+						"h": 99
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 99
+					},
+					"sourceSize": {
+						"w": 84,
+						"h": 99
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0005",
+					"frame": {
+						"x": 1519,
+						"y": 1947,
+						"w": 129,
+						"h": 96
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 33,
+						"w": 129,
+						"h": 96
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_back_bottom_left",
+					"frame": {
+						"x": 1560,
+						"y": 1740,
+						"w": 348,
+						"h": 203
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 348,
+						"h": 203
+					},
+					"sourceSize": {
+						"w": 348,
+						"h": 203
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0038",
+					"frame": {
+						"x": 1910,
+						"y": 1740,
+						"w": 137,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 137,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 Menu/menu_btn_register",
+					"frame": {
+						"x": 1910,
+						"y": 1858,
+						"w": 137,
+						"h": 51
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 51
+					},
+					"sourceSize": {
+						"w": 137,
+						"h": 51
+					}
+				},
+				{
+					"filename": "00 Menu/menu_register_btn",
+					"frame": {
+						"x": 1910,
+						"y": 1858,
+						"w": 137,
+						"h": 51
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 51
+					},
+					"sourceSize": {
+						"w": 137,
+						"h": 51
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_body",
+					"frame": {
+						"x": 1910,
+						"y": 1911,
+						"w": 132,
+						"h": 136
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 136
+					},
+					"sourceSize": {
+						"w": 132,
+						"h": 136
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0011",
+					"frame": {
+						"x": 1650,
+						"y": 1945,
+						"w": 129,
+						"h": 102
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 549,
+						"y": 100,
+						"w": 129,
+						"h": 102
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "00 login/LOGOUT_BTN",
+					"frame": {
+						"x": 1781,
+						"y": 1945,
+						"w": 119,
+						"h": 55
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 55
+					},
+					"sourceSize": {
+						"w": 120,
+						"h": 57
+					}
+				},
+				{
+					"filename": "00 common/key_small",
+					"frame": {
+						"x": 1560,
+						"y": 1602,
+						"w": 60,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 60,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 common/instruction_button",
+					"frame": {
+						"x": 1560,
+						"y": 1664,
+						"w": 55,
+						"h": 55
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 55
+					},
+					"sourceSize": {
+						"w": 55,
+						"h": 55
+					}
+				}
+			]
+		},
+		{
+			"image": "level1-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "01 word build/word_build_background",
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1284,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1284,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1304,
+						"h": 800
+					}
+				},
+				{
+					"filename": "01 word build/word_build__left_side",
+					"frame": {
+						"x": 1287,
+						"y": 1,
+						"w": 508,
+						"h": 763
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 508,
+						"h": 763
+					},
+					"sourceSize": {
+						"w": 508,
+						"h": 763
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0001",
+					"frame": {
+						"x": 1797,
+						"y": 1,
+						"w": 250,
+						"h": 165
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 14,
+						"w": 250,
+						"h": 165
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0001",
+					"frame": {
+						"x": 1797,
+						"y": 1,
+						"w": 250,
+						"h": 165
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 14,
+						"w": 250,
+						"h": 165
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0010",
+					"frame": {
+						"x": 1797,
+						"y": 168,
+						"w": 250,
+						"h": 165
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 14,
+						"w": 250,
+						"h": 165
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0010",
+					"frame": {
+						"x": 1797,
+						"y": 168,
+						"w": 250,
+						"h": 165
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 14,
+						"w": 250,
+						"h": 165
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0002",
+					"frame": {
+						"x": 1797,
+						"y": 335,
+						"w": 246,
+						"h": 163
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 246,
+						"h": 163
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0002",
+					"frame": {
+						"x": 1797,
+						"y": 335,
+						"w": 246,
+						"h": 163
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 246,
+						"h": 163
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_right",
+					"frame": {
+						"x": 1797,
+						"y": 500,
+						"w": 245,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 245,
+						"h": 800
+					}
+				},
+				{
+					"filename": "00 login/login_panel",
+					"frame": {
+						"x": 1287,
+						"y": 766,
+						"w": 500,
+						"h": 520
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 520
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 520
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_back",
+					"frame": {
+						"x": 1,
+						"y": 803,
+						"w": 1283,
+						"h": 801
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1283,
+						"h": 801
+					},
+					"sourceSize": {
+						"w": 1286,
+						"h": 802
+					}
+				},
+				{
+					"filename": "00 common/scroll",
+					"frame": {
+						"x": 1286,
+						"y": 1288,
+						"w": 481,
+						"h": 612
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 481,
+						"h": 612
+					},
+					"sourceSize": {
+						"w": 481,
+						"h": 612
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0003",
+					"frame": {
+						"x": 1,
+						"y": 1902,
+						"w": 138,
+						"h": 145
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 76,
+						"w": 138,
+						"h": 145
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "01 word build/word_build_dinosaur2",
+					"frame": {
+						"x": 1,
+						"y": 1606,
+						"w": 269,
+						"h": 294
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 269,
+						"h": 294
+					},
+					"sourceSize": {
+						"w": 269,
+						"h": 294
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0001",
+					"frame": {
+						"x": 141,
+						"y": 1902,
+						"w": 170,
+						"h": 144
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 170,
+						"h": 144
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0001",
+					"frame": {
+						"x": 141,
+						"y": 1902,
+						"w": 170,
+						"h": 144
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 170,
+						"h": 144
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0020",
+					"frame": {
+						"x": 141,
+						"y": 1902,
+						"w": 170,
+						"h": 144
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 170,
+						"h": 144
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0002",
+					"frame": {
+						"x": 313,
+						"y": 1902,
+						"w": 168,
+						"h": 144
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 144
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0011",
+					"frame": {
+						"x": 483,
+						"y": 1902,
+						"w": 168,
+						"h": 144
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 144
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0012",
+					"frame": {
+						"x": 653,
+						"y": 1902,
+						"w": 168,
+						"h": 144
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 144
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0002",
+					"frame": {
+						"x": 823,
+						"y": 1902,
+						"w": 170,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 1,
+						"w": 170,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0019",
+					"frame": {
+						"x": 995,
+						"y": 1902,
+						"w": 170,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 1,
+						"w": 170,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0001",
+					"frame": {
+						"x": 1167,
+						"y": 1606,
+						"w": 117,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 106,
+						"w": 117,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0009",
+					"frame": {
+						"x": 1167,
+						"y": 1606,
+						"w": 117,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 106,
+						"w": 117,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0003",
+					"frame": {
+						"x": 272,
+						"y": 1723,
+						"w": 151,
+						"h": 176
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 151,
+						"h": 176
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0007",
+					"frame": {
+						"x": 272,
+						"y": 1606,
+						"w": 157,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0003",
+					"frame": {
+						"x": 1167,
+						"y": 1902,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0004",
+					"frame": {
+						"x": 1337,
+						"y": 1902,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0005",
+					"frame": {
+						"x": 1507,
+						"y": 1902,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0006",
+					"frame": {
+						"x": 1677,
+						"y": 1902,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0007",
+					"frame": {
+						"x": 1847,
+						"y": 1302,
+						"w": 200,
+						"h": 263
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 200,
+						"h": 263
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0001",
+					"frame": {
+						"x": 1847,
+						"y": 1567,
+						"w": 200,
+						"h": 262
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 200,
+						"h": 262
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0008",
+					"frame": {
+						"x": 1847,
+						"y": 1831,
+						"w": 199,
+						"h": 193
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 193
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0006",
+					"frame": {
+						"x": 425,
+						"y": 1723,
+						"w": 186,
+						"h": 174
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 19,
+						"w": 186,
+						"h": 174
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0008",
+					"frame": {
+						"x": 431,
+						"y": 1606,
+						"w": 150,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 150,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0006",
+					"frame": {
+						"x": 583,
+						"y": 1606,
+						"w": 145,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 145,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "00 Menu/menu_btn_settings",
+					"frame": {
+						"x": 1769,
+						"y": 1302,
+						"w": 71,
+						"h": 71
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0005",
+					"frame": {
+						"x": 730,
+						"y": 1606,
+						"w": 429,
+						"h": 242
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 27,
+						"w": 429,
+						"h": 242
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "00 common/toolbar_play_sentence",
+					"frame": {
+						"x": 613,
+						"y": 1723,
+						"w": 114,
+						"h": 52
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 52
+					},
+					"sourceSize": {
+						"w": 114,
+						"h": 52
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0014",
+					"frame": {
+						"x": 613,
+						"y": 1777,
+						"w": 93,
+						"h": 122
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 93,
+						"h": 122
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "00 common/timer_holder",
+					"frame": {
+						"x": 708,
+						"y": 1850,
+						"w": 172,
+						"h": 49
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 49
+					},
+					"sourceSize": {
+						"w": 172,
+						"h": 49
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_screen_perc_holder",
+					"frame": {
+						"x": 882,
+						"y": 1850,
+						"w": 110,
+						"h": 49
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 49
+					},
+					"sourceSize": {
+						"w": 110,
+						"h": 49
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0000",
+					"frame": {
+						"x": 1161,
+						"y": 1723,
+						"w": 118,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 118,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "00 music/mute0000",
+					"frame": {
+						"x": 1161,
+						"y": 1840,
+						"w": 55,
+						"h": 55
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 55
+					},
+					"sourceSize": {
+						"w": 55,
+						"h": 55
+					}
+				},
+				{
+					"filename": "00 music/mute0001",
+					"frame": {
+						"x": 1218,
+						"y": 1840,
+						"w": 55,
+						"h": 55
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 55
+					},
+					"sourceSize": {
+						"w": 55,
+						"h": 55
+					}
+				}
+			]
+		},
+		{
+			"image": "level1-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "02 word catch/word_catch_back_centre",
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1280,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 800
+					}
+				},
+				{
+					"filename": "06 wordspell/word_spell_board",
+					"frame": {
+						"x": 1283,
+						"y": 1,
+						"w": 417,
+						"h": 142
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 417,
+						"h": 142
+					},
+					"sourceSize": {
+						"w": 417,
+						"h": 142
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0003",
+					"frame": {
+						"x": 1702,
+						"y": 1,
+						"w": 343,
+						"h": 326
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 38,
+						"w": 343,
+						"h": 326
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0006",
+					"frame": {
+						"x": 1283,
+						"y": 145,
+						"w": 414,
+						"h": 238
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 31,
+						"w": 414,
+						"h": 238
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0014",
+					"frame": {
+						"x": 1699,
+						"y": 329,
+						"w": 343,
+						"h": 326
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 38,
+						"w": 343,
+						"h": 326
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "00 Menu/elephant",
+					"frame": {
+						"x": 1283,
+						"y": 385,
+						"w": 399,
+						"h": 157
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 399,
+						"h": 157
+					},
+					"sourceSize": {
+						"w": 399,
+						"h": 157
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0007",
+					"frame": {
+						"x": 1283,
+						"y": 544,
+						"w": 393,
+						"h": 233
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 36,
+						"w": 393,
+						"h": 233
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0006",
+					"frame": {
+						"x": 1678,
+						"y": 657,
+						"w": 366,
+						"h": 207
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 0,
+						"w": 366,
+						"h": 207
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_hide_woodpanel",
+					"frame": {
+						"x": 1283,
+						"y": 779,
+						"w": 386,
+						"h": 89
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 89
+					},
+					"sourceSize": {
+						"w": 386,
+						"h": 89
+					}
+				},
+				{
+					"filename": "05 word match/word_match_background",
+					"frame": {
+						"x": 1,
+						"y": 803,
+						"w": 1280,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 800
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0013",
+					"frame": {
+						"x": 1671,
+						"y": 866,
+						"w": 356,
+						"h": 342
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 356,
+						"h": 342
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0004",
+					"frame": {
+						"x": 1283,
+						"y": 870,
+						"w": 381,
+						"h": 269
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 381,
+						"h": 269
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0008",
+					"frame": {
+						"x": 1283,
+						"y": 1141,
+						"w": 379,
+						"h": 230
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 39,
+						"w": 379,
+						"h": 230
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0001",
+					"frame": {
+						"x": 1664,
+						"y": 1210,
+						"w": 378,
+						"h": 231
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 33,
+						"w": 378,
+						"h": 231
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_back_bottom_right",
+					"frame": {
+						"x": 1283,
+						"y": 1373,
+						"w": 356,
+						"h": 244
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 356,
+						"h": 244
+					},
+					"sourceSize": {
+						"w": 356,
+						"h": 244
+					}
+				},
+				{
+					"filename": "00 common/toolbar_background",
+					"frame": {
+						"x": 1,
+						"y": 1605,
+						"w": 1278,
+						"h": 84
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1278,
+						"h": 84
+					},
+					"sourceSize": {
+						"w": 1278,
+						"h": 84
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0008",
+					"frame": {
+						"x": 1,
+						"y": 1691,
+						"w": 294,
+						"h": 338
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 27,
+						"w": 294,
+						"h": 338
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0006",
+					"frame": {
+						"x": 297,
+						"y": 1691,
+						"w": 309,
+						"h": 334
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 309,
+						"h": 334
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0007",
+					"frame": {
+						"x": 608,
+						"y": 1691,
+						"w": 321,
+						"h": 319
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 46,
+						"w": 321,
+						"h": 319
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0002",
+					"frame": {
+						"x": 931,
+						"y": 1691,
+						"w": 319,
+						"h": 312
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 52,
+						"w": 319,
+						"h": 312
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0015",
+					"frame": {
+						"x": 931,
+						"y": 1691,
+						"w": 319,
+						"h": 312
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 52,
+						"w": 319,
+						"h": 312
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_panel_rope",
+					"frame": {
+						"x": 931,
+						"y": 2005,
+						"w": 229,
+						"h": 41
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 41
+					},
+					"sourceSize": {
+						"w": 229,
+						"h": 41
+					}
+				},
+				{
+					"filename": "00 Menu/title",
+					"frame": {
+						"x": 1252,
+						"y": 1691,
+						"w": 774,
+						"h": 235
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 774,
+						"h": 235
+					},
+					"sourceSize": {
+						"w": 774,
+						"h": 235
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0007",
+					"frame": {
+						"x": 1641,
+						"y": 1443,
+						"w": 325,
+						"h": 246
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 325,
+						"h": 246
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0045",
+					"frame": {
+						"x": 1252,
+						"y": 1928,
+						"w": 218,
+						"h": 119
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 218,
+						"h": 119
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0046",
+					"frame": {
+						"x": 1472,
+						"y": 1928,
+						"w": 136,
+						"h": 119
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 136,
+						"h": 119
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0001",
+					"frame": {
+						"x": 1610,
+						"y": 1928,
+						"w": 133,
+						"h": 119
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 133,
+						"h": 119
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0006",
+					"frame": {
+						"x": 1745,
+						"y": 1928,
+						"w": 129,
+						"h": 119
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 129,
+						"h": 119
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0008",
+					"frame": {
+						"x": 1876,
+						"y": 1928,
+						"w": 129,
+						"h": 119
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 129,
+						"h": 119
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0004",
+					"frame": {
+						"x": 1281,
+						"y": 1619,
+						"w": 113,
+						"h": 68
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 61,
+						"w": 113,
+						"h": 68
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "00 common/toolbar_play_word",
+					"frame": {
+						"x": 1396,
+						"y": 1619,
+						"w": 94,
+						"h": 52
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 52
+					},
+					"sourceSize": {
+						"w": 94,
+						"h": 52
+					}
+				},
+				{
+					"filename": "00 Menu/menu_about_btn",
+					"frame": {
+						"x": 1492,
+						"y": 1619,
+						"w": 93,
+						"h": 51
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 51
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 51
+					}
+				}
+			]
+		},
+		{
+			"image": "level1-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "05 word match/word_match_background.png",
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1280,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 800
+					}
+				},
+				{
+					"filename": "00 common/key_space",
+					"frame": {
+						"x": 1283,
+						"y": 1,
+						"w": 340,
+						"h": 60
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 60
+					},
+					"sourceSize": {
+						"w": 340,
+						"h": 60
+					}
+				},
+				{
+					"filename": "00 Menu/word_build_icon",
+					"frame": {
+						"x": 1625,
+						"y": 1,
+						"w": 338,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 338,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 common/btn_back",
+					"frame": {
+						"x": 1965,
+						"y": 1,
+						"w": 82,
+						"h": 82
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 82
+					},
+					"sourceSize": {
+						"w": 82,
+						"h": 82
+					}
+				},
+				{
+					"filename": "00 Menu/word_catch_icon",
+					"frame": {
+						"x": 1283,
+						"y": 63,
+						"w": 338,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 338,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 common/cog",
+					"frame": {
+						"x": 1965,
+						"y": 85,
+						"w": 80,
+						"h": 81
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 81
+					},
+					"sourceSize": {
+						"w": 81,
+						"h": 81
+					}
+				},
+				{
+					"filename": "00 Menu/word_hide_icon",
+					"frame": {
+						"x": 1623,
+						"y": 137,
+						"w": 338,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 338,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 Menu/word_jumble_icon",
+					"frame": {
+						"x": 1283,
+						"y": 199,
+						"w": 338,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 338,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_vine2",
+					"frame": {
+						"x": 1963,
+						"y": 168,
+						"w": 77,
+						"h": 621
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 621
+					},
+					"sourceSize": {
+						"w": 77,
+						"h": 621
+					}
+				},
+				{
+					"filename": "00 Menu/word_match_icon",
+					"frame": {
+						"x": 1623,
+						"y": 273,
+						"w": 338,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 338,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 Menu/word_spell_icon",
+					"frame": {
+						"x": 1283,
+						"y": 335,
+						"w": 338,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 338,
+						"h": 134
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_back_top_right",
+					"frame": {
+						"x": 1623,
+						"y": 409,
+						"w": 337,
+						"h": 551
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 551
+					},
+					"sourceSize": {
+						"w": 337,
+						"h": 551
+					}
+				},
+				{
+					"filename": "05 word match/word_match_vine1",
+					"frame": {
+						"x": 1962,
+						"y": 791,
+						"w": 74,
+						"h": 630
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 630
+					},
+					"sourceSize": {
+						"w": 74,
+						"h": 630
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0010",
+					"frame": {
+						"x": 1283,
+						"y": 471,
+						"w": 325,
+						"h": 247
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 26,
+						"w": 325,
+						"h": 247
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0011",
+					"frame": {
+						"x": 1283,
+						"y": 720,
+						"w": 325,
+						"h": 247
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 26,
+						"w": 325,
+						"h": 247
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "00 Menu/menu_background",
+					"frame": {
+						"x": 1,
+						"y": 803,
+						"w": 1280,
+						"h": 452
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 452
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 452
+					}
+				},
+				{
+					"filename": "05 word match/monkey_vine",
+					"frame": {
+						"x": 1,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "00 Menu/panel_menu_locked",
+					"frame": {
+						"x": 1,
+						"y": 1257,
+						"w": 233,
+						"h": 162
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 162
+					},
+					"sourceSize": {
+						"w": 233,
+						"h": 162
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0001",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0002",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0006",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0007",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0008",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0009",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0010",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0001",
+					"frame": {
+						"x": 193,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "00 common/btn_term1",
+					"frame": {
+						"x": 236,
+						"y": 1257,
+						"w": 183,
+						"h": 161
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 161
+					},
+					"sourceSize": {
+						"w": 184,
+						"h": 162
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0003",
+					"frame": {
+						"x": 385,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0005",
+					"frame": {
+						"x": 385,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0002",
+					"frame": {
+						"x": 385,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "00 common/btn_term2",
+					"frame": {
+						"x": 421,
+						"y": 1257,
+						"w": 183,
+						"h": 161
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 161
+					},
+					"sourceSize": {
+						"w": 184,
+						"h": 162
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_correct0004",
+					"frame": {
+						"x": 577,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "00 common/btn_term3",
+					"frame": {
+						"x": 606,
+						"y": 1257,
+						"w": 183,
+						"h": 161
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 161
+					},
+					"sourceSize": {
+						"w": 184,
+						"h": 162
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0003",
+					"frame": {
+						"x": 769,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0013",
+					"frame": {
+						"x": 769,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "00 common/btn_term4",
+					"frame": {
+						"x": 791,
+						"y": 1257,
+						"w": 183,
+						"h": 161
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 161
+					},
+					"sourceSize": {
+						"w": 184,
+						"h": 162
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0004",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0005",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0006",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0007",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0008",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0009",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0010",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0011",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0012",
+					"frame": {
+						"x": 961,
+						"y": 1423,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0002",
+					"frame": {
+						"x": 976,
+						"y": 1257,
+						"w": 151,
+						"h": 160
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 46,
+						"w": 151,
+						"h": 160
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0009",
+					"frame": {
+						"x": 976,
+						"y": 1257,
+						"w": 151,
+						"h": 160
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 46,
+						"w": 151,
+						"h": 160
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "00 common/instruction_panel",
+					"frame": {
+						"x": 1153,
+						"y": 1257,
+						"w": 802,
+						"h": 204
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 802,
+						"h": 204
+					},
+					"sourceSize": {
+						"w": 802,
+						"h": 204
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_correct0001",
+					"frame": {
+						"x": 1283,
+						"y": 969,
+						"w": 301,
+						"h": 275
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 89,
+						"w": 301,
+						"h": 275
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 365
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0004",
+					"frame": {
+						"x": 1586,
+						"y": 969,
+						"w": 190,
+						"h": 274
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 1,
+						"w": 190,
+						"h": 274
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0005",
+					"frame": {
+						"x": 1778,
+						"y": 962,
+						"w": 182,
+						"h": 269
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 269
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "00 common/keyboard_back",
+					"frame": {
+						"x": 1153,
+						"y": 1463,
+						"w": 850,
+						"h": 300
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 850,
+						"h": 300
+					},
+					"sourceSize": {
+						"w": 850,
+						"h": 300
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0001",
+					"frame": {
+						"x": 1153,
+						"y": 1765,
+						"w": 300,
+						"h": 273
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 300,
+						"h": 273
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0003",
+					"frame": {
+						"x": 1455,
+						"y": 1765,
+						"w": 146,
+						"h": 273
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 16,
+						"w": 146,
+						"h": 273
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_cover0002",
+					"frame": {
+						"x": 1603,
+						"y": 1765,
+						"w": 154,
+						"h": 271
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 9,
+						"w": 154,
+						"h": 271
+					},
+					"sourceSize": {
+						"w": 472,
+						"h": 289
+					}
+				},
+				{
+					"filename": "00 login/logo_education_curb",
+					"frame": {
+						"x": 1759,
+						"y": 1765,
+						"w": 279,
+						"h": 212
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 279,
+						"h": 212
+					},
+					"sourceSize": {
+						"w": 280,
+						"h": 213
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_panel",
+					"frame": {
+						"x": 1759,
+						"y": 1979,
+						"w": 245,
+						"h": 67
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 67
+					},
+					"sourceSize": {
+						"w": 245,
+						"h": 67
+					}
+				}
+			]
+		},
+		{
+			"image": "level1-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "04 word jumble/word_jumble_board",
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 962,
+						"h": 307
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 962,
+						"h": 307
+					},
+					"sourceSize": {
+						"w": 962,
+						"h": 307
+					}
+				},
+				{
+					"filename": "00 common/sentence_panel",
+					"frame": {
+						"x": 965,
+						"y": 1,
+						"w": 843,
+						"h": 107
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 843,
+						"h": 107
+					},
+					"sourceSize": {
+						"w": 843,
+						"h": 107
+					}
+				},
+				{
+					"filename": "00 Menu/tree_right",
+					"frame": {
+						"x": 1810,
+						"y": 1,
+						"w": 235,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 235,
+						"h": 800
+					}
+				},
+				{
+					"filename": "00 Menu/tree_left",
+					"frame": {
+						"x": 1,
+						"y": 803,
+						"w": 275,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 275,
+						"h": 800
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0002",
+					"frame": {
+						"x": 1,
+						"y": 1605,
+						"w": 303,
+						"h": 269
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 303,
+						"h": 269
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_left",
+					"frame": {
+						"x": 278,
+						"y": 803,
+						"w": 275,
+						"h": 800
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 275,
+						"h": 800
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0003",
+					"frame": {
+						"x": 1,
+						"y": 1876,
+						"w": 271,
+						"h": 171
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 36,
+						"w": 271,
+						"h": 171
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0010",
+					"frame": {
+						"x": 274,
+						"y": 1876,
+						"w": 228,
+						"h": 171
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 425,
+						"y": 34,
+						"w": 228,
+						"h": 171
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_rabbit",
+					"frame": {
+						"x": 306,
+						"y": 1605,
+						"w": 152,
+						"h": 268
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 268
+					},
+					"sourceSize": {
+						"w": 152,
+						"h": 270
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0003",
+					"frame": {
+						"x": 460,
+						"y": 1605,
+						"w": 216,
+						"h": 266
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 216,
+						"h": 266
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0005",
+					"frame": {
+						"x": 504,
+						"y": 1873,
+						"w": 187,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 34,
+						"w": 187,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0014",
+					"frame": {
+						"x": 555,
+						"y": 803,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "00 common/homograph",
+					"frame": {
+						"x": 555,
+						"y": 1416,
+						"w": 230,
+						"h": 187
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 187
+					},
+					"sourceSize": {
+						"w": 230,
+						"h": 187
+					}
+				},
+				{
+					"filename": "05 word match/word_match_monkey_incorrect0015",
+					"frame": {
+						"x": 747,
+						"y": 803,
+						"w": 190,
+						"h": 611
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 611
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 611
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0006",
+					"frame": {
+						"x": 678,
+						"y": 1605,
+						"w": 185,
+						"h": 266
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 266
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "00 common/homophone",
+					"frame": {
+						"x": 787,
+						"y": 1416,
+						"w": 230,
+						"h": 187
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 187
+					},
+					"sourceSize": {
+						"w": 230,
+						"h": 187
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0004",
+					"frame": {
+						"x": 693,
+						"y": 1873,
+						"w": 181,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 181,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0003",
+					"frame": {
+						"x": 865,
+						"y": 1605,
+						"w": 306,
+						"h": 260
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 306,
+						"h": 260
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0003",
+					"frame": {
+						"x": 876,
+						"y": 1867,
+						"w": 171,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 34,
+						"w": 171,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0002",
+					"frame": {
+						"x": 1049,
+						"y": 1867,
+						"w": 161,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 34,
+						"w": 161,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0009",
+					"frame": {
+						"x": 1049,
+						"y": 1867,
+						"w": 161,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 34,
+						"w": 161,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "01 word build/word_build__right_side",
+					"frame": {
+						"x": 939,
+						"y": 803,
+						"w": 168,
+						"h": 525
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 525
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 525
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel3",
+					"frame": {
+						"x": 939,
+						"y": 1330,
+						"w": 100,
+						"h": 81
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 81
+					},
+					"sourceSize": {
+						"w": 100,
+						"h": 82
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0007",
+					"frame": {
+						"x": 1019,
+						"y": 1413,
+						"w": 187,
+						"h": 190
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 187,
+						"h": 190
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel2",
+					"frame": {
+						"x": 1041,
+						"y": 1330,
+						"w": 93,
+						"h": 78
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 78
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 78
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_uncover0002",
+					"frame": {
+						"x": 1173,
+						"y": 1605,
+						"w": 294,
+						"h": 247
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 19,
+						"w": 294,
+						"h": 247
+					},
+					"sourceSize": {
+						"w": 425,
+						"h": 275
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0005",
+					"frame": {
+						"x": 1212,
+						"y": 1854,
+						"w": 151,
+						"h": 191
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 151,
+						"h": 191
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0009",
+					"frame": {
+						"x": 1365,
+						"y": 1854,
+						"w": 319,
+						"h": 188
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 19,
+						"w": 319,
+						"h": 188
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0008",
+					"frame": {
+						"x": 1469,
+						"y": 110,
+						"w": 325,
+						"h": 246
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 325,
+						"h": 246
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0006",
+					"frame": {
+						"x": 1136,
+						"y": 110,
+						"w": 323,
+						"h": 246
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 323,
+						"h": 246
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0007",
+					"frame": {
+						"x": 965,
+						"y": 110,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0008",
+					"frame": {
+						"x": 965,
+						"y": 255,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0029",
+					"frame": {
+						"x": 1686,
+						"y": 358,
+						"w": 106,
+						"h": 73
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 56,
+						"w": 106,
+						"h": 73
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0043",
+					"frame": {
+						"x": 1469,
+						"y": 358,
+						"w": 215,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 215,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0005",
+					"frame": {
+						"x": 1136,
+						"y": 358,
+						"w": 321,
+						"h": 245
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 28,
+						"w": 321,
+						"h": 245
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_medal_bronze",
+					"frame": {
+						"x": 1,
+						"y": 605,
+						"w": 150,
+						"h": 188
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 188
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 188
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0007",
+					"frame": {
+						"x": 1,
+						"y": 400,
+						"w": 154,
+						"h": 202
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 154,
+						"h": 202
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0006",
+					"frame": {
+						"x": 153,
+						"y": 604,
+						"w": 151,
+						"h": 197
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 151,
+						"h": 197
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0004",
+					"frame": {
+						"x": 157,
+						"y": 400,
+						"w": 298,
+						"h": 201
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 6,
+						"w": 298,
+						"h": 201
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_medal_empty",
+					"frame": {
+						"x": 306,
+						"y": 605,
+						"w": 150,
+						"h": 188
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 188
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 188
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_medal_gold",
+					"frame": {
+						"x": 458,
+						"y": 605,
+						"w": 150,
+						"h": 188
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 188
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 188
+					}
+				},
+				{
+					"filename": "00 common/endscreen/end_medal_silver",
+					"frame": {
+						"x": 610,
+						"y": 605,
+						"w": 150,
+						"h": 188
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 188
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 188
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel1",
+					"frame": {
+						"x": 1,
+						"y": 310,
+						"w": 92,
+						"h": 77
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 77
+					},
+					"sourceSize": {
+						"w": 92,
+						"h": 77
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel4",
+					"frame": {
+						"x": 95,
+						"y": 310,
+						"w": 92,
+						"h": 77
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 77
+					},
+					"sourceSize": {
+						"w": 92,
+						"h": 77
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_branch",
+					"frame": {
+						"x": 189,
+						"y": 310,
+						"w": 228,
+						"h": 76
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 76
+					},
+					"sourceSize": {
+						"w": 228,
+						"h": 76
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0004",
+					"frame": {
+						"x": 762,
+						"y": 605,
+						"w": 151,
+						"h": 183
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 151,
+						"h": 183
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "00 Menu/bear",
+					"frame": {
+						"x": 915,
+						"y": 400,
+						"w": 219,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 219,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 219,
+						"h": 151
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0046",
+					"frame": {
+						"x": 915,
+						"y": 553,
+						"w": 219,
+						"h": 120
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 219,
+						"h": 120
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0033",
+					"frame": {
+						"x": 915,
+						"y": 675,
+						"w": 212,
+						"h": 126
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 212,
+						"h": 126
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_shadow",
+					"frame": {
+						"x": 419,
+						"y": 310,
+						"w": 220,
+						"h": 74
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 74
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 74
+					}
+				},
+				{
+					"filename": "00 login/login_studentpanel",
+					"frame": {
+						"x": 641,
+						"y": 310,
+						"w": 269,
+						"h": 93
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 269,
+						"h": 93
+					},
+					"sourceSize": {
+						"w": 269,
+						"h": 93
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0005",
+					"frame": {
+						"x": 457,
+						"y": 386,
+						"w": 182,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 182,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0009",
+					"frame": {
+						"x": 641,
+						"y": 405,
+						"w": 266,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 266,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0009",
+					"frame": {
+						"x": 641,
+						"y": 405,
+						"w": 266,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 266,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "00 Menu/menu_btn_login",
+					"frame": {
+						"x": 457,
+						"y": 546,
+						"w": 93,
+						"h": 51
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 51
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 51
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_back_top_left",
+					"frame": {
+						"x": 1109,
+						"y": 803,
+						"w": 298,
+						"h": 508
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 508
+					},
+					"sourceSize": {
+						"w": 298,
+						"h": 508
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0032",
+					"frame": {
+						"x": 1129,
+						"y": 675,
+						"w": 129,
+						"h": 126
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 126
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0007",
+					"frame": {
+						"x": 1260,
+						"y": 605,
+						"w": 310,
+						"h": 182
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 159,
+						"y": 25,
+						"w": 310,
+						"h": 182
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0032",
+					"frame": {
+						"x": 1459,
+						"y": 477,
+						"w": 210,
+						"h": 125
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 210,
+						"h": 125
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0002",
+					"frame": {
+						"x": 1671,
+						"y": 477,
+						"w": 136,
+						"h": 221
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 136,
+						"h": 221
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0004",
+					"frame": {
+						"x": 1572,
+						"y": 700,
+						"w": 233,
+						"h": 155
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 233,
+						"h": 155
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0004",
+					"frame": {
+						"x": 1572,
+						"y": 700,
+						"w": 233,
+						"h": 155
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 233,
+						"h": 155
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0003",
+					"frame": {
+						"x": 1807,
+						"y": 803,
+						"w": 238,
+						"h": 158
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 3,
+						"w": 238,
+						"h": 158
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0003",
+					"frame": {
+						"x": 1807,
+						"y": 803,
+						"w": 238,
+						"h": 158
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 3,
+						"w": 238,
+						"h": 158
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0008",
+					"frame": {
+						"x": 1409,
+						"y": 789,
+						"w": 157,
+						"h": 206
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 206
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0042",
+					"frame": {
+						"x": 1568,
+						"y": 857,
+						"w": 230,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 230,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0008",
+					"frame": {
+						"x": 1800,
+						"y": 963,
+						"w": 244,
+						"h": 141
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 244,
+						"h": 141
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0008",
+					"frame": {
+						"x": 1800,
+						"y": 963,
+						"w": 244,
+						"h": 141
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 244,
+						"h": 141
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0041",
+					"frame": {
+						"x": 1568,
+						"y": 975,
+						"w": 229,
+						"h": 114
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 229,
+						"h": 114
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/rabbit",
+					"frame": {
+						"x": 1409,
+						"y": 997,
+						"w": 156,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 156,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/rabbit",
+					"frame": {
+						"x": 1409,
+						"y": 997,
+						"w": 156,
+						"h": 134
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 156,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0005",
+					"frame": {
+						"x": 1567,
+						"y": 1091,
+						"w": 228,
+						"h": 153
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 0,
+						"w": 228,
+						"h": 153
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0005",
+					"frame": {
+						"x": 1567,
+						"y": 1091,
+						"w": 228,
+						"h": 153
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 0,
+						"w": 228,
+						"h": 153
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "00 common/medal_empty",
+					"frame": {
+						"x": 1469,
+						"y": 1133,
+						"w": 94,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 94,
+						"h": 118
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0040",
+					"frame": {
+						"x": 1797,
+						"y": 1106,
+						"w": 226,
+						"h": 113
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 226,
+						"h": 113
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 Menu/panel_menu_open",
+					"frame": {
+						"x": 1797,
+						"y": 1221,
+						"w": 225,
+						"h": 152
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 152
+					},
+					"sourceSize": {
+						"w": 225,
+						"h": 152
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0039",
+					"frame": {
+						"x": 1565,
+						"y": 1246,
+						"w": 224,
+						"h": 112
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 224,
+						"h": 112
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 common/medal_gold",
+					"frame": {
+						"x": 1469,
+						"y": 1253,
+						"w": 94,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 94,
+						"h": 118
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0038",
+					"frame": {
+						"x": 1565,
+						"y": 1360,
+						"w": 222,
+						"h": 110
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 222,
+						"h": 110
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "00 common/medal_silver",
+					"frame": {
+						"x": 1469,
+						"y": 1373,
+						"w": 94,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 94,
+						"h": 118
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0009",
+					"frame": {
+						"x": 1208,
+						"y": 1493,
+						"w": 215,
+						"h": 110
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 215,
+						"h": 110
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0010",
+					"frame": {
+						"x": 1425,
+						"y": 1493,
+						"w": 214,
+						"h": 110
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 214,
+						"h": 110
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "06 wordspell/squirrel_wrong0004",
+					"frame": {
+						"x": 1469,
+						"y": 1605,
+						"w": 317,
+						"h": 244
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 317,
+						"h": 244
+					},
+					"sourceSize": {
+						"w": 325,
+						"h": 273
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0005",
+					"frame": {
+						"x": 1641,
+						"y": 1472,
+						"w": 93,
+						"h": 131
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 93,
+						"h": 131
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0007",
+					"frame": {
+						"x": 1736,
+						"y": 1472,
+						"w": 129,
+						"h": 129
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 129,
+						"h": 129
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0008",
+					"frame": {
+						"x": 1867,
+						"y": 1375,
+						"w": 175,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 175,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0016",
+					"frame": {
+						"x": 1867,
+						"y": 1375,
+						"w": 175,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 175,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0004",
+					"frame": {
+						"x": 1867,
+						"y": 1516,
+						"w": 171,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 5,
+						"w": 171,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0013",
+					"frame": {
+						"x": 1867,
+						"y": 1516,
+						"w": 171,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 5,
+						"w": 171,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0001",
+					"frame": {
+						"x": 1208,
+						"y": 1313,
+						"w": 152,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 34,
+						"w": 152,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_correct0010",
+					"frame": {
+						"x": 1208,
+						"y": 1313,
+						"w": 152,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 34,
+						"w": 152,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 199,
+						"h": 193
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0012",
+					"frame": {
+						"x": 1362,
+						"y": 1313,
+						"w": 93,
+						"h": 148
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 93,
+						"h": 148
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0001",
+					"frame": {
+						"x": 1686,
+						"y": 1851,
+						"w": 151,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 47,
+						"w": 151,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_wrong0010",
+					"frame": {
+						"x": 1686,
+						"y": 1851,
+						"w": 151,
+						"h": 159
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 47,
+						"w": 151,
+						"h": 159
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 206
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0014",
+					"frame": {
+						"x": 1839,
+						"y": 1657,
+						"w": 182,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 182,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "05 word match/word_match_croc0002",
+					"frame": {
+						"x": 1839,
+						"y": 1798,
+						"w": 181,
+						"h": 110
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 97,
+						"w": 181,
+						"h": 110
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0013",
+					"frame": {
+						"x": 1839,
+						"y": 1910,
+						"w": 93,
+						"h": 137
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 93,
+						"h": 137
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0004",
+					"frame": {
+						"x": 1934,
+						"y": 1910,
+						"w": 92,
+						"h": 121
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 92,
+						"h": 121
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				}
+			]
+		},
+		{
+			"image": "level1-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "05 word match/word_match_croc0005",
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 317,
+						"h": 207
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 0,
+						"w": 317,
+						"h": 207
+					},
+					"sourceSize": {
+						"w": 703,
+						"h": 207
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_rabbit_board",
+					"frame": {
+						"x": 320,
+						"y": 1,
+						"w": 261,
+						"h": 135
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 135
+					},
+					"sourceSize": {
+						"w": 261,
+						"h": 135
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0006",
+					"frame": {
+						"x": 583,
+						"y": 1,
+						"w": 221,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 2,
+						"w": 221,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0006",
+					"frame": {
+						"x": 583,
+						"y": 1,
+						"w": 221,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 2,
+						"w": 221,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "01 word build/rabbit_magic0007",
+					"frame": {
+						"x": 320,
+						"y": 138,
+						"w": 221,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 2,
+						"w": 221,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/rabbit_magic0007",
+					"frame": {
+						"x": 320,
+						"y": 138,
+						"w": 221,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 2,
+						"w": 221,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 266,
+						"h": 179
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0037",
+					"frame": {
+						"x": 1,
+						"y": 210,
+						"w": 220,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 220,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0003",
+					"frame": {
+						"x": 223,
+						"y": 210,
+						"w": 93,
+						"h": 113
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 38,
+						"w": 93,
+						"h": 113
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0001",
+					"frame": {
+						"x": 1,
+						"y": 321,
+						"w": 218,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 218,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0002",
+					"frame": {
+						"x": 806,
+						"y": 1,
+						"w": 218,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 218,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0003",
+					"frame": {
+						"x": 1026,
+						"y": 1,
+						"w": 218,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 218,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0036",
+					"frame": {
+						"x": 1246,
+						"y": 1,
+						"w": 218,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 218,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0044",
+					"frame": {
+						"x": 1466,
+						"y": 1,
+						"w": 217,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 217,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0048",
+					"frame": {
+						"x": 1246,
+						"y": 112,
+						"w": 217,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 217,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0004",
+					"frame": {
+						"x": 1685,
+						"y": 1,
+						"w": 216,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 216,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0042",
+					"frame": {
+						"x": 1903,
+						"y": 1,
+						"w": 144,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 144,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0005",
+					"frame": {
+						"x": 1685,
+						"y": 114,
+						"w": 216,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 216,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0041",
+					"frame": {
+						"x": 1903,
+						"y": 121,
+						"w": 143,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 143,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0006",
+					"frame": {
+						"x": 1465,
+						"y": 121,
+						"w": 216,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 216,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0047",
+					"frame": {
+						"x": 1683,
+						"y": 227,
+						"w": 216,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 216,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0040",
+					"frame": {
+						"x": 1901,
+						"y": 240,
+						"w": 141,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 141,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0035",
+					"frame": {
+						"x": 806,
+						"y": 114,
+						"w": 216,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 216,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0007",
+					"frame": {
+						"x": 1024,
+						"y": 114,
+						"w": 215,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 215,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0008",
+					"frame": {
+						"x": 1241,
+						"y": 225,
+						"w": 215,
+						"h": 111
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 215,
+						"h": 111
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0034",
+					"frame": {
+						"x": 1458,
+						"y": 234,
+						"w": 215,
+						"h": 108
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 215,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0030",
+					"frame": {
+						"x": 1675,
+						"y": 340,
+						"w": 213,
+						"h": 123
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 213,
+						"h": 123
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "04 word jumble/word_jumble_bird_idle",
+					"frame": {
+						"x": 1890,
+						"y": 359,
+						"w": 149,
+						"h": 158
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 158
+					},
+					"sourceSize": {
+						"w": 149,
+						"h": 158
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0011",
+					"frame": {
+						"x": 543,
+						"y": 154,
+						"w": 213,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 213,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0012",
+					"frame": {
+						"x": 758,
+						"y": 225,
+						"w": 213,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 213,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0029",
+					"frame": {
+						"x": 543,
+						"y": 265,
+						"w": 211,
+						"h": 120
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 211,
+						"h": 120
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0028",
+					"frame": {
+						"x": 318,
+						"y": 291,
+						"w": 210,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 210,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0015",
+					"frame": {
+						"x": 221,
+						"y": 325,
+						"w": 93,
+						"h": 112
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 93,
+						"h": 112
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "05 word match/word_match_word_holder0031",
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 209,
+						"h": 123
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 209,
+						"h": 123
+					},
+					"sourceSize": {
+						"w": 239,
+						"h": 134
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0003",
+					"frame": {
+						"x": 973,
+						"y": 227,
+						"w": 170,
+						"h": 141
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 170,
+						"h": 141
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0008",
+					"frame": {
+						"x": 1145,
+						"y": 227,
+						"w": 92,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 92,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0018",
+					"frame": {
+						"x": 756,
+						"y": 336,
+						"w": 170,
+						"h": 141
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 170,
+						"h": 141
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0006",
+					"frame": {
+						"x": 928,
+						"y": 370,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0007",
+					"frame": {
+						"x": 1239,
+						"y": 338,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0015",
+					"frame": {
+						"x": 1239,
+						"y": 338,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0002",
+					"frame": {
+						"x": 1100,
+						"y": 380,
+						"w": 136,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 136,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0009",
+					"frame": {
+						"x": 530,
+						"y": 387,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0017",
+					"frame": {
+						"x": 530,
+						"y": 387,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0010",
+					"frame": {
+						"x": 316,
+						"y": 411,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0009",
+					"frame": {
+						"x": 212,
+						"y": 439,
+						"w": 92,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 92,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0011",
+					"frame": {
+						"x": 1,
+						"y": 559,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_incorrect0012",
+					"frame": {
+						"x": 702,
+						"y": 479,
+						"w": 170,
+						"h": 139
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 170,
+						"h": 139
+					},
+					"sourceSize": {
+						"w": 187,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0009",
+					"frame": {
+						"x": 488,
+						"y": 528,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "03 word hide/word_hide_monkey_correct0010",
+					"frame": {
+						"x": 306,
+						"y": 552,
+						"w": 168,
+						"h": 143
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 143
+					},
+					"sourceSize": {
+						"w": 168,
+						"h": 144
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0029",
+					"frame": {
+						"x": 173,
+						"y": 592,
+						"w": 131,
+						"h": 122
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 131,
+						"h": 122
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "06 wordspell/speech_bubble",
+					"frame": {
+						"x": 1,
+						"y": 700,
+						"w": 165,
+						"h": 103
+					},
+					"rotated": false,
+					"trimmed": false,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 103
+					},
+					"sourceSize": {
+						"w": 165,
+						"h": 103
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0003",
+					"frame": {
+						"x": 1411,
+						"y": 344,
+						"w": 141,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 141,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0010",
+					"frame": {
+						"x": 1554,
+						"y": 344,
+						"w": 92,
+						"h": 151
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 92,
+						"h": 151
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0039",
+					"frame": {
+						"x": 1411,
+						"y": 461,
+						"w": 139,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 139,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0004",
+					"frame": {
+						"x": 1238,
+						"y": 479,
+						"w": 138,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 106,
+						"w": 138,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0008",
+					"frame": {
+						"x": 1100,
+						"y": 497,
+						"w": 136,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 106,
+						"w": 136,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0007",
+					"frame": {
+						"x": 874,
+						"y": 511,
+						"w": 138,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 106,
+						"w": 138,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0006",
+					"frame": {
+						"x": 658,
+						"y": 620,
+						"w": 138,
+						"h": 112
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 109,
+						"w": 138,
+						"h": 112
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_wrong0005",
+					"frame": {
+						"x": 476,
+						"y": 673,
+						"w": 138,
+						"h": 108
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 113,
+						"w": 138,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0037",
+					"frame": {
+						"x": 306,
+						"y": 697,
+						"w": 134,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 134,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0001",
+					"frame": {
+						"x": 168,
+						"y": 716,
+						"w": 134,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 134,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0009",
+					"frame": {
+						"x": 1,
+						"y": 805,
+						"w": 134,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 134,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0027",
+					"frame": {
+						"x": 1648,
+						"y": 465,
+						"w": 133,
+						"h": 121
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 133,
+						"h": 121
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0007",
+					"frame": {
+						"x": 1552,
+						"y": 497,
+						"w": 92,
+						"h": 147
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 92,
+						"h": 147
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0006",
+					"frame": {
+						"x": 1783,
+						"y": 465,
+						"w": 92,
+						"h": 140
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 92,
+						"h": 140
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0002",
+					"frame": {
+						"x": 1646,
+						"y": 588,
+						"w": 133,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 133,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0044",
+					"frame": {
+						"x": 1877,
+						"y": 519,
+						"w": 133,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 133,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0002",
+					"frame": {
+						"x": 1781,
+						"y": 607,
+						"w": 92,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 42,
+						"w": 92,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0048",
+					"frame": {
+						"x": 1875,
+						"y": 639,
+						"w": 133,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 133,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0030",
+					"frame": {
+						"x": 1378,
+						"y": 579,
+						"w": 132,
+						"h": 125
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 132,
+						"h": 125
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0003",
+					"frame": {
+						"x": 1512,
+						"y": 646,
+						"w": 132,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 132,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0043",
+					"frame": {
+						"x": 1646,
+						"y": 708,
+						"w": 132,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 132,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0016",
+					"frame": {
+						"x": 1780,
+						"y": 718,
+						"w": 92,
+						"h": 109
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 42,
+						"w": 92,
+						"h": 109
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0047",
+					"frame": {
+						"x": 1238,
+						"y": 596,
+						"w": 132,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 132,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0036",
+					"frame": {
+						"x": 1372,
+						"y": 706,
+						"w": 132,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 132,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0004",
+					"frame": {
+						"x": 1506,
+						"y": 766,
+						"w": 131,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0005",
+					"frame": {
+						"x": 1639,
+						"y": 828,
+						"w": 131,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0006",
+					"frame": {
+						"x": 1874,
+						"y": 759,
+						"w": 131,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0001",
+					"frame": {
+						"x": 1772,
+						"y": 829,
+						"w": 92,
+						"h": 108
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 43,
+						"w": 92,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0007",
+					"frame": {
+						"x": 1866,
+						"y": 879,
+						"w": 131,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_egg_open_animation0017",
+					"frame": {
+						"x": 1772,
+						"y": 939,
+						"w": 92,
+						"h": 108
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 43,
+						"w": 92,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 93,
+						"h": 151
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0008",
+					"frame": {
+						"x": 1866,
+						"y": 999,
+						"w": 131,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0009",
+					"frame": {
+						"x": 1014,
+						"y": 614,
+						"w": 131,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0010",
+					"frame": {
+						"x": 798,
+						"y": 628,
+						"w": 131,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 131,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0011",
+					"frame": {
+						"x": 616,
+						"y": 734,
+						"w": 131,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 131,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0012",
+					"frame": {
+						"x": 442,
+						"y": 783,
+						"w": 131,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 131,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0035",
+					"frame": {
+						"x": 304,
+						"y": 815,
+						"w": 131,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 131,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "02 word catch/word_catch_bird_fly0005",
+					"frame": {
+						"x": 137,
+						"y": 833,
+						"w": 131,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 131,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 157,
+						"h": 115
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0013",
+					"frame": {
+						"x": 1,
+						"y": 922,
+						"w": 130,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 130,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0033",
+					"frame": {
+						"x": 1147,
+						"y": 716,
+						"w": 129,
+						"h": 128
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0026",
+					"frame": {
+						"x": 931,
+						"y": 734,
+						"w": 129,
+						"h": 128
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 129,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0031",
+					"frame": {
+						"x": 749,
+						"y": 747,
+						"w": 129,
+						"h": 124
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 129,
+						"h": 124
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0025",
+					"frame": {
+						"x": 575,
+						"y": 853,
+						"w": 129,
+						"h": 122
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 129,
+						"h": 122
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0028",
+					"frame": {
+						"x": 437,
+						"y": 902,
+						"w": 129,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 129,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0018",
+					"frame": {
+						"x": 270,
+						"y": 933,
+						"w": 129,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 129,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0019",
+					"frame": {
+						"x": 133,
+						"y": 950,
+						"w": 129,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 129,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0020",
+					"frame": {
+						"x": 1,
+						"y": 1040,
+						"w": 129,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 129,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0021",
+					"frame": {
+						"x": 1278,
+						"y": 824,
+						"w": 129,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 129,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0022",
+					"frame": {
+						"x": 1062,
+						"y": 846,
+						"w": 129,
+						"h": 118
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 129,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0015",
+					"frame": {
+						"x": 880,
+						"y": 864,
+						"w": 129,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 129,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0016",
+					"frame": {
+						"x": 706,
+						"y": 873,
+						"w": 129,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 129,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0017",
+					"frame": {
+						"x": 568,
+						"y": 977,
+						"w": 129,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 129,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0014",
+					"frame": {
+						"x": 401,
+						"y": 1022,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0015",
+					"frame": {
+						"x": 264,
+						"y": 1053,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0016",
+					"frame": {
+						"x": 132,
+						"y": 1070,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0017",
+					"frame": {
+						"x": 1,
+						"y": 1160,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0018",
+					"frame": {
+						"x": 1409,
+						"y": 886,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0019",
+					"frame": {
+						"x": 1193,
+						"y": 944,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0034",
+					"frame": {
+						"x": 1011,
+						"y": 966,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0009",
+					"frame": {
+						"x": 837,
+						"y": 983,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0012",
+					"frame": {
+						"x": 699,
+						"y": 992,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0013",
+					"frame": {
+						"x": 532,
+						"y": 1096,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0014",
+					"frame": {
+						"x": 395,
+						"y": 1140,
+						"w": 129,
+						"h": 116
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 129,
+						"h": 116
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0020",
+					"frame": {
+						"x": 263,
+						"y": 1171,
+						"w": 129,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 129,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0010",
+					"frame": {
+						"x": 132,
+						"y": 1188,
+						"w": 129,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 129,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0011",
+					"frame": {
+						"x": 1,
+						"y": 1278,
+						"w": 129,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 129,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0023",
+					"frame": {
+						"x": 1540,
+						"y": 948,
+						"w": 129,
+						"h": 114
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 129,
+						"h": 114
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0024",
+					"frame": {
+						"x": 1671,
+						"y": 1049,
+						"w": 129,
+						"h": 108
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 21,
+						"w": 129,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "05 word match/word_match_correct0028",
+					"frame": {
+						"x": 1324,
+						"y": 1004,
+						"w": 129,
+						"h": 107
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 22,
+						"w": 129,
+						"h": 107
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 138
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0027",
+					"frame": {
+						"x": 1142,
+						"y": 1062,
+						"w": 128,
+						"h": 117
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 128,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0021",
+					"frame": {
+						"x": 968,
+						"y": 1084,
+						"w": 128,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 128,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0022",
+					"frame": {
+						"x": 830,
+						"y": 1101,
+						"w": 128,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 128,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0023",
+					"frame": {
+						"x": 663,
+						"y": 1110,
+						"w": 128,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 128,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0024",
+					"frame": {
+						"x": 526,
+						"y": 1214,
+						"w": 128,
+						"h": 114
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 128,
+						"h": 114
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0025",
+					"frame": {
+						"x": 394,
+						"y": 1258,
+						"w": 128,
+						"h": 114
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 128,
+						"h": 114
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				},
+				{
+					"filename": "01 word build/word_build_letter_holder0026",
+					"frame": {
+						"x": 263,
+						"y": 1288,
+						"w": 127,
+						"h": 115
+					},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 127,
+						"h": 115
+					},
+					"sourceSize": {
+						"w": 153,
+						"h": 134
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:05161ab38686cc73508242ef866173e0:4b0e4924942cb7dd01ec79df8954bc6a:ae334d7a0881328a3b107bc0c4929599$"
+	}
+}

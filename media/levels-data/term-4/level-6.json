@@ -1,0 +1,53 @@
+{
+    "list": [{
+        "id": 1,
+        "type": [],
+        "word": "first",
+        "sentence": "I came first in the race."
+    }, {
+        "id": 2,
+        "type": [],
+        "word": "second",
+        "sentence": "I was second to line up."
+    }, {
+        "id": 3,
+        "type": [],
+        "word": "third",
+        "sentence": "This is my third cup of milk."
+    }, {
+        "id": 4,
+        "type": [],
+        "word": "fourth",
+        "sentence": "This is my fourth try."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "fifth",
+        "sentence": "I came fifth in the race."
+    }, {
+        "id": 6,
+        "type": [],
+        "word": "sixth",
+        "sentence": "This is my sixth race."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "seventh",
+        "sentence": "What comes after seventh?"
+    }, {
+        "id": 8,
+        "type": [],
+        "word": "eighth",
+        "sentence": "My brother is in the eighth grade."
+    }, {
+        "id": 9,
+        "type": [],
+        "word": "ninth",
+        "sentence": "This is the ninth lap around."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "tenth",
+        "sentence": "The tenth boy to win was me."
+    }]
+}

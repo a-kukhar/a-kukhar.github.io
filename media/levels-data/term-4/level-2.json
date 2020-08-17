@@ -1,0 +1,103 @@
+{
+    "list": [{
+        "id": 1,
+        "type": ["HOMOGRAPH"],
+        "word": "dresses",
+        "sentence": "I have many nice dresses."
+    }, {
+        "id": 2,
+        "type": ["HOMOGRAPH"],
+        "word": "classes",
+        "sentence": "I have two dance classes today."
+    }, {
+        "id": 3,
+        "type": ["HOMOGRAPH"],
+        "word": "passes",
+        "sentence": "Mom got passes to the zoo."
+    }, {
+        "id": 4,
+        "type": ["HOMOGRAPH"],
+        "word": "glasses",
+        "sentence": "Dad wears glasses."
+    }, {
+        "id": 5,
+        "type": [],
+        "word": "buses",
+        "sentence": "The school buses came late."
+    }, {
+        "id": 6,
+        "type": ["HOMOGRAPH"],
+        "word": "bosses",
+        "sentence": "My mom has two bosses."
+    }, {
+        "id": 7,
+        "type": [],
+        "word": "kisses",
+        "sentence": "Our baby sister gets lots of kisses."
+    }, {
+        "id": 8,
+        "type": ["HOMOGRAPH"],
+        "word": "crosses",
+        "sentence": "I had a few crosses on my test."
+    }, {
+        "id": 9,
+        "type": ["HOMOGRAPH"],
+        "word": "boxes",
+        "sentence": "We put our toys away in boxes."
+    }, {
+        "id": 10,
+        "type": [],
+        "word": "foxes",
+        "sentence": "The foxes ran away."
+    }, {
+        "id": 11,
+        "type": [],
+        "word": "tosses",
+        "sentence": "Tim tosses his bag into the car."
+    }, {
+        "id": 12,
+        "type": [],
+        "word": "gases",
+        "sentence": "The air is full of gases."
+    }, {
+        "id": 13,
+        "type": [],
+        "word": "losses",
+        "sentence": "We had some losses but we had fun."
+    }, {
+        "id": 14,
+        "type": [],
+        "word": "sixes",
+        "sentence": "I rolled the dice and got sixes."
+    }, {
+        "id": 15,
+        "type": [],
+        "word": "misses",
+        "sentence": "The baseball team had two misses."
+    }, {
+        "id": 16,
+        "type": ["HOMOGRAPH"],
+        "word": "mixes",
+        "sentence": "Mom mixes the eggs and sugar first."
+    }, {
+        "id": 17,
+        "type": [],
+        "word": "addresses",
+        "sentence": "Do you have two addresses?"
+    }, {
+        "id": 18,
+        "type": [],
+        "word": "taxes",
+        "sentence": "My mom and dad pay taxes."
+    }, {
+        "id": 19,
+        "type": [],
+        "word": "lenses",
+        "sentence": "Dad's glass lenses were dirty."
+    }, {
+        "id": 20,
+        "type": [],
+        "word": "faxes",
+        "sentence": "Dad sent some faxes for work."
+    }]
+}
